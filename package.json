@@ -2,6 +2,16 @@
   "name": "nuxt-app",
   "type": "module",
   "private": true,
+  "keywords": [
+    "typescript",
+    "nuxt",
+    "unocss",
+    "@pixelium"
+  ],
+  "author": {
+    "name": "shljy"
+  },
+  "homepage": "https://shljy1.github.io/",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev --host",
