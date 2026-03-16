@@ -1,0 +1,9 @@
+@import "@pixelium/web-vue/dist/pixelium-vue.css";
+@import "@pixelium/web-vue/dist/font.css";
+@import "@pixelium/web-vue/dist/normalize.css";
+
+html,
+body {
+  font-family: var(--px-font);
+  line-height: 1.5;
+}

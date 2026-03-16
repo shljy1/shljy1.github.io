@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-app",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --host",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@pixelium/web-vue": "^0.1.1",
+    "nuxt": "^4.3.1",
+    "vue": "^3.5.30",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "@unocss/nuxt": "^66.6.6",
+    "sass": "^1.93.2",
+    "unocss": "^66.6.6"
+  }
+}
