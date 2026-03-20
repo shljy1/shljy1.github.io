@@ -82,6 +82,17 @@ definePageMeta({
           </ul>
         </div>
       </section>
+      <section class="mt-4">
+        <h2 class="text-2xl font-bold text-gray-900 dark:text-white">音乐</h2>
+        <div class="mt-8">
+          <ul>
+            <li>《杀破狼》</li>
+            <li>《会呼吸的痛》</li>
+            <li>《富士山下》</li>
+            <li>徐良、许嵩、汪苏泷、本兮</li>
+          </ul>
+        </div>
+      </section>
       <px-divider></px-divider>
       <section class="mt-4">
         <h2 class="text-2xl font-bold text-gray-900 dark:text-white">书籍</h2>
