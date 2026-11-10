@@ -27,13 +27,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm # 按 package-lock.json 缓存依赖
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Install dependencies
-        run: npm ci # 严格按 lockfile 安装，避免依赖版本漂移
+        run: npm install
 
       - name: Generate static site
         run: npm run generate
