@@ -108,6 +108,9 @@ const canvasRef = ref<HTMLCanvasElement | null>(null)
 const progress = ref(0) // 0 ~ 1 滚动进度
 const activeIndex = ref(0)
 const showHint = ref(true)
+const isCoarsePointer = ref(false) // 触屏设备：禁用轨道控制，保留滑动翻章
+const showMusic = ref(false) // 日语歌单漫游场景
+const musicIndex = chapters.findIndex((c) => c.id === "music") // 音乐章节索引
 let cleanupScene: (() => void) | null = null // 场景资源清理函数
 
 onBeforeUnmount(() => cleanupScene?.())
@@ -131,7 +134,8 @@ onMounted(async () => {
   // ---------- 基础场景 ----------
   const BG_COLOR = 0x06060f
   const SPACING = 14 // 章节间距（世界单位）
-  const VIEW_DIST = 10 // 相机与章节的距离
+  const VIEW_DIST = 10 // 相机与章节的最小距离（窄屏自动拉远）
+  let viewDist = VIEW_DIST // 实际生效距离（随屏幕宽高比自适应）
   const LOOK_Y = 0.3 // 注视点高度（偏低，配合内容上移使构图居中）
   const scene = new THREE.Scene()
   scene.background = new THREE.Color(BG_COLOR)
@@ -152,14 +156,21 @@ onMounted(async () => {
   renderer.setSize(window.innerWidth, window.innerHeight)
   renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2))
 
-  // ---------- 轨道控制器：拖拽旋转视角（滚轮保留给章节穿梭） ----------
-  const controls = new OrbitControls(camera, renderer.domElement)
-  controls.enableDamping = true // 阻尼惯性
-  controls.dampingFactor = 0.06
-  controls.enablePan = false
-  controls.enableZoom = false // 滚轮用于滚动翻章，避免冲突
-  controls.rotateSpeed = 0.4
-  controls.target.set(0, LOOK_Y, -4)
+  // ---------- 轨道控制器：拖拽旋转视角（仅非触屏设备启用） ----------
+  // 触屏设备上单指拖拽被 OrbitControls 占用会导致页面无法下滑，
+  // 因此手机端不创建控制器，视角固定、纯滚动驱动
+  const isCoarse = window.matchMedia("(pointer: coarse)").matches
+  isCoarsePointer.value = isCoarse
+  let controls: InstanceType<typeof OrbitControls> | null = null
+  if (!isCoarse) {
+    controls = new OrbitControls(camera, renderer.domElement)
+    controls.enableDamping = true // 阻尼惯性
+    controls.dampingFactor = 0.06
+    controls.enablePan = false
+    controls.enableZoom = false // 滚轮用于滚动翻章，避免冲突
+    controls.rotateSpeed = 0.4
+    controls.target.set(0, LOOK_Y, -4)
+  }
 
   // ---------- 工具：平滑阶梯 ----------
   const clamp01 = (v: number) => Math.min(1, Math.max(0, v))
@@ -386,6 +397,12 @@ onMounted(async () => {
   // 标题粒子的 uniforms 集合，用于每帧更新时间
   const particleUniforms: { uTime: { value: number } }[] = []
 
+  // 窄屏缩小字号，避免文字超出视野
+  const isNarrow = window.innerWidth < 640
+  const TITLE_SIZE = isNarrow ? 60 : 96
+  const SUB_SIZE = isNarrow ? 22 : 30
+  const ITEM_SIZE = isNarrow ? 21 : 30
+
   chapters.forEach((chapter, ci) => {
     const group = new THREE.Group()
     const z = -ci * SPACING
@@ -396,7 +413,7 @@ onMounted(async () => {
 
     // 主标题（粒子聚合效果）
     const title = makeTextParticles(chapter.title, {
-      fontSize: 96,
+      fontSize: TITLE_SIZE,
       colorFrom: "#ffffff",
       colorTo: colorHex,
     })
@@ -415,7 +432,7 @@ onMounted(async () => {
 
     // 英文副标题：章节色 + 辉光 + 宽字距
     const sub = makeTextPlane(chapter.subtitle, {
-      fontSize: 30,
+      fontSize: SUB_SIZE,
       color: colorHex,
       weight: "300",
       glow: colorHex,
@@ -435,7 +452,7 @@ onMounted(async () => {
     chapter.items.forEach((item, ii) => {
       // 白 -> 章节色 的纵向渐变，与粒子标题呼应
       const line = makeTextPlane(item, {
-        fontSize: 30,
+        fontSize: ITEM_SIZE,
         color: "#ffffff",
         gradientTo: colorHex,
       })
@@ -508,16 +525,27 @@ onMounted(async () => {
     progress.value = p
     showHint.value = p < 0.02
     activeIndex.value = Math.round(p * (chapters.length - 1))
-    // 滚动进度映射为行进位置：始终停在当前章节正前方 VIEW_DIST 个单位
-    targetZ = VIEW_DIST - p * (chapters.length - 1) * SPACING
+    // 滚动进度映射为行进位置：始终停在当前章节正前方 viewDist 个单位
+    targetZ = viewDist - p * (chapters.length - 1) * SPACING
   }
+  // 窄屏（手机竖屏）自动拉远相机，保证内容完整可见
+  function computeViewDist() {
+    const aspect = window.innerWidth / window.innerHeight
+    const halfWidthNeeded = 4.2 // 内容最大半宽（标题与最长条目）
+    const min = halfWidthNeeded / (Math.tan(THREE.MathUtils.degToRad(camera.fov / 2)) * aspect)
+    viewDist = Math.max(VIEW_DIST, min)
+  }
+
   function onResize() {
     camera.aspect = window.innerWidth / window.innerHeight
     camera.updateProjectionMatrix()
     renderer.setSize(window.innerWidth, window.innerHeight)
+    computeViewDist()
+    onScroll() // 距离变化后重新计算行进目标
   }
   window.addEventListener("scroll", onScroll, { passive: true })
   window.addEventListener("resize", onResize)
+  computeViewDist()
   onScroll()
 
   // ---------- 渲染循环 ----------
@@ -530,13 +558,19 @@ onMounted(async () => {
     // 行进位置平滑跟随滚动目标
     travelZ += (targetZ - travelZ) * 0.06
 
-    // 注视点锁定在行进位置前方的章节中心：
-    // 相机与注视点同步平移，保留用户拖拽产生的轨道偏移
-    lookTarget.set(0, LOOK_Y, travelZ - VIEW_DIST)
-    const delta = lookTarget.clone().sub(controls.target)
-    camera.position.add(delta)
-    controls.target.copy(lookTarget)
-    controls.update() // 应用阻尼与旋转
+    if (controls) {
+      // 注视点锁定在行进位置前方的章节中心：
+      // 相机与注视点同步平移，保留用户拖拽产生的轨道偏移
+      lookTarget.set(0, LOOK_Y, travelZ - viewDist)
+      const delta = lookTarget.clone().sub(controls.target)
+      camera.position.add(delta)
+      controls.target.copy(lookTarget)
+      controls.update() // 应用阻尼与旋转
+    } else {
+      // 触屏设备：固定视角，仅随滚动前进
+      camera.position.set(0, LOOK_Y, travelZ)
+      camera.lookAt(0, LOOK_Y, travelZ - viewDist)
+    }
 
     // 粒子整体缓慢旋转与呼吸
     particles.rotation.z = t * 0.012
@@ -549,7 +583,7 @@ onMounted(async () => {
 
     // 章节动画：聚焦度驱动淡入、上浮、缩放
     for (const node of nodes) {
-      const dist = Math.abs(travelZ - VIEW_DIST - node.z)
+      const dist = Math.abs(travelZ - viewDist - node.z)
       const focus = 1 - smoothstep(0, SPACING * 0.75, dist)
 
       node.group.scale.setScalar(0.92 + focus * 0.08)
@@ -577,7 +611,7 @@ onMounted(async () => {
     cancelAnimationFrame(rafId)
     window.removeEventListener("scroll", onScroll)
     window.removeEventListener("resize", onResize)
-    controls.dispose()
+    controls?.dispose()
     scene.traverse((obj) => {
       // 同时清理文字平面（Mesh）与标题粒子（Points）
       if (obj instanceof THREE.Mesh || obj instanceof THREE.Points) {
@@ -628,6 +662,21 @@ onMounted(async () => {
       </button>
     </nav>
 
+    <!-- 音乐章节：日语歌单入口 -->
+    <transition name="fade">
+      <button
+        v-if="activeIndex === musicIndex && !showMusic"
+        type="button"
+        class="music-entry"
+        @click="showMusic = true"
+      >
+        🎧 日语歌单 · 点击进入漫游
+      </button>
+    </transition>
+
+    <!-- 日语歌单：场景漫游 + 自定义着色器 -->
+    <MusicScene v-if="showMusic" @close="showMusic = false" />
+
     <!-- 底部滚动提示 -->
     <transition name="fade">
       <div
@@ -635,7 +684,7 @@ onMounted(async () => {
         class="fixed bottom-10 left-1/2 z-20 -translate-x-1/2 text-center text-white/60"
       >
         <p class="text-sm tracking-[0.3em] [text-shadow:0_1px_6px_rgba(0,0,0,0.9)]">
-          向下滚动 · 拖拽旋转视角
+          {{ isCoarsePointer ? "下滑探索" : "向下滚动 · 拖拽旋转视角" }}
         </p>
         <div class="scroll-arrow mx-auto mt-3">↓</div>
       </div>
@@ -700,34 +749,29 @@ onMounted(async () => {
   transition: transform 0.2s ease;
 }
 
-/* 右侧章节导航：用普通 CSS 书写，避免被 pixelium normalize 覆盖 */
+/* 右侧章节导航：默认只显示圆点，悬停时展开文字 */
 .chapter-nav {
   position: fixed;
   right: 1rem;
   top: 50%;
   transform: translateY(-50%);
   z-index: 20;
-  display: none;
+  display: flex;
   flex-direction: column;
   gap: 4px;
-  padding: 12px;
+  padding: 10px;
   border-radius: 16px;
   border: 1px solid rgb(255 255 255 / 15%);
   background: rgb(0 0 0 / 55%);
   box-shadow: 0 4px 24px rgb(0 0 0 / 50%);
   backdrop-filter: blur(12px);
-
-  @media (width >= 768px) {
-    display: flex;
-  }
 }
 
 .nav-item {
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  gap: 12px;
-  padding: 6px 10px;
+  padding: 6px 8px;
   border: none;
   border-radius: 8px;
   background: transparent;
@@ -741,11 +785,24 @@ onMounted(async () => {
 }
 
 .nav-label {
+  display: block;
+  max-width: 0; // 默认收起，只留圆点
+  opacity: 0;
+  overflow: hidden;
+  white-space: nowrap;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.15em;
   color: rgb(255 255 255 / 80%);
   text-shadow: 0 1px 4px rgb(0 0 0 / 90%);
+  transition: max-width 0.35s ease, margin-right 0.35s ease, opacity 0.25s ease;
+
+  // 悬停导航时展开文字，并留出与圆点的间距
+  .chapter-nav:hover & {
+    max-width: 5em;
+    margin-right: 12px;
+    opacity: 1;
+  }
 
   .nav-item.active & {
     color: #fff;
@@ -768,6 +825,46 @@ onMounted(async () => {
     background: #7dd3fc;
     transform: scale(1.5);
     box-shadow: 0 0 10px rgb(125 211 252 / 90%);
+  }
+}
+
+/* 手机端：导航更紧凑 */
+@media (width < 768px) {
+  .chapter-nav {
+    right: 0.5rem;
+    padding: 8px 6px;
+    gap: 2px;
+    border: none;
+    background: transparent;
+    box-shadow: none;
+    backdrop-filter: none;
+  }
+}
+
+/* 音乐章节：日语歌单入口按钮 */
+.music-entry {
+  position: fixed;
+  bottom: 5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 20;
+  padding: 10px 22px;
+  border: 1px solid rgb(52 211 153 / 40%);
+  border-radius: 999px;
+  background: rgb(0 0 0 / 55%);
+  box-shadow: 0 0 20px rgb(52 211 153 / 15%);
+  backdrop-filter: blur(12px);
+  color: rgb(52 211 153 / 90%);
+  font-size: 14px;
+  letter-spacing: 0.15em;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+
+  &:hover {
+    color: #6ee7b7;
+    border-color: rgb(52 211 153 / 80%);
+    box-shadow: 0 0 28px rgb(52 211 153 / 35%);
+    transform: translateX(-50%) translateY(-2px);
   }
 }
 

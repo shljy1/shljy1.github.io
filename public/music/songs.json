@@ -1,0 +1,4109 @@
+[
+  {
+    "id": "aliez",
+    "title": "aLIEz",
+    "titleJp": "aLIEz",
+    "artist": "SawanoHiroyuki[nZk]:mizuki",
+    "lyrics": [
+      {
+        "jp": "决(き)めつけばかり",
+        "romaji": "ki me tsu ke ba ka ri"
+      },
+      {
+        "jp": "自惚(うぬぼ)れを着(ぎ)た",
+        "romaji": "u nu bo re wo gi ta"
+      },
+      {
+        "jp": "チープなほこりで　音荒(おとあら)げても",
+        "romaji": "chi pu na ho ko ri de,o to a ra ge te mo"
+      },
+      {
+        "jp": "棚(たな)に隠(かく)した",
+        "romaji": "ta na ni ka ku shi ta"
+      },
+      {
+        "jp": "哀(あわ)れな",
+        "romaji": "a wa re na"
+      },
+      {
+        "jp": "耻(はじ)に濡(ぬ)れた镜(かがみ)の中(なか)",
+        "romaji": "ha ji ni nu re ta ka ga mi no na ka"
+      },
+      {
+        "jp": "都合(つごう)の伤(きず)だけひけらかして",
+        "romaji": "tsu go u no ki zu da ke hi ke ra ka shi te"
+      },
+      {
+        "jp": "手軽(てがる)な强(つよ)さで胜取(かちと)る术(すべ)を",
+        "romaji": "te ga ru na tsu yo sa de ka chi to （ru） su be wo"
+      },
+      {
+        "jp": "どれだけ磨(と)いでも気(き)はやつれる",
+        "romaji": "do re da ke to i de mo ki wa ya tsu re ru"
+      },
+      {
+        "jp": "ふらついた思想(しそう)通(どお)りだ",
+        "romaji": "fu ra tsu i ta shi so u do o ri da"
+      },
+      {
+        "jp": "爱(あい)-same-CRIER",
+        "romaji": "a i-same-crier"
+      },
+      {
+        "jp": "爱抚(あいぶ)-save-LIAR",
+        "romaji": "a i bu-save-liar"
+      },
+      {
+        "jp": "Eid-圣(せい)-Rising HELL",
+        "romaji": "eid-se i-rising hell"
+      },
+      {
+        "jp": "爱(あい)してる Game世界(せかい)のDay",
+        "romaji": "a i shi te ru game se ka i no day"
+      },
+      {
+        "jp": "Don*t-生(せい)-War",
+        "romaji": "dont-se i-war"
+      },
+      {
+        "jp": "Lie-兵士(へいし)-War-World",
+        "romaji": "lie-he i shi-war-world"
+      },
+      {
+        "jp": "Eyes-Hate-War",
+        "romaji": "eyes-hate-war"
+      },
+      {
+        "jp": "A-Z Looser-Krankheit-Was IS das?",
+        "romaji": "a-z looser-krankheit-was is das?"
+      },
+      {
+        "jp": "受(う)け売(う)り盾(たて)に",
+        "romaji": "u ke u ri ta te ni"
+      },
+      {
+        "jp": "见下(みくだ)してても",
+        "romaji": "mi ku da shi te te mo"
+      },
+      {
+        "jp": "そこには地面(じめん)しかない事(こと)さえ",
+        "romaji": "so ko ni wa ji men shi ka na i ko to sa e"
+      },
+      {
+        "jp": "気付(きづ)かぬままに",
+        "romaji": "ki zu ka nu ma ma ni"
+      },
+      {
+        "jp": "壊(こわ)れた过去(かこ)に负(ま)けた镜(かがみ)の奥(おく)",
+        "romaji": "ko wa re ta ka ko ni ma ke ta ka ga mi no o ku"
+      },
+      {
+        "jp": "どこまで叫(さけ)べば位置(いち)を知(し)れる",
+        "romaji": "do ko ma de sa ke be ba i chi wo shi re ru"
+      },
+      {
+        "jp": "とどめもないまま息(いき)が切(き)れる",
+        "romaji": "to do me mo na i ma ma i ki ga ki re ru"
+      },
+      {
+        "jp": "堂々(どうどう)さらした罪(つみ)の群(む)れと",
+        "romaji": "do u do u sa ra si ta tsu mi no nu re to"
+      },
+      {
+        "jp": "后(うし)ろ向(む)きにあらがう",
+        "romaji": "u si ro mu ki ni a ra ga u"
+      },
+      {
+        "jp": "爱(あい)-same-CRIER",
+        "romaji": "a i-same-crier"
+      },
+      {
+        "jp": "爱抚(あいぶ)-save-LIAR",
+        "romaji": "a i bu-save-liar"
+      },
+      {
+        "jp": "Aid-圣(せい)-Rising HELL",
+        "romaji": "aid-se i-rising hell"
+      },
+      {
+        "jp": "I*ll-ness Reset-Endじゃない　Burst",
+        "romaji": "ill-ness reset-end ja na i burst"
+      },
+      {
+        "jp": "Don*t-生(せい)-War",
+        "romaji": "dont-se i-war"
+      },
+      {
+        "jp": "Lie-兵士(へいし)-War-World",
+        "romaji": "lie-he i shi-war-world"
+      },
+      {
+        "jp": "Eyes-Hate-War",
+        "romaji": "eyes-hate-war"
+      },
+      {
+        "jp": "A-Z 想像(そうぞう)High-de-Siehst YOU das?",
+        "romaji": "a-z so u zo u high-de-siehst you das?"
+      },
+      {
+        "jp": "伪(にせ)の态度(たいど)な 臆病(おくびょ)Loud Voice",
+        "romaji": "ni se no ta i do na o ku byo loud voice"
+      },
+      {
+        "jp": "気高(けたか)さを 勘违(かんちが)いした心臓(しんぞう)音(おん)",
+        "romaji": "ke ta ka sa wo kan chi ga i shi ta sin zo u on"
+      },
+      {
+        "jp": "狙(ねら)い通(とお)りの",
+        "romaji": "ne ra i to o ri no"
+      },
+      {
+        "jp": "幻(まぼろし)见(み)ても",
+        "romaji": "ma bo ro shi mi te mo"
+      },
+      {
+        "jp": "満(み)たせない",
+        "romaji": "mi ta se na i"
+      },
+      {
+        "jp": "何度(なんど)も目(め)を开(あ)けても",
+        "romaji": "nan do mo me wo a ke te mo"
+      },
+      {
+        "jp": "どこまで叫(さけ)べば位置(いち)を知(し)れる",
+        "romaji": "do ko ma de sa ke be ba i chi wo shi re ru"
+      },
+      {
+        "jp": "とどめもないまま息(いき)が切(き)れる",
+        "romaji": "to do me mo na i ma ma i ki ga ki re ru"
+      },
+      {
+        "jp": "堂々(どうどう)さらした罪(つみ)の群(む)れと",
+        "romaji": "do u do u sa ra shi ta tsu mi no nu re to"
+      },
+      {
+        "jp": "后(うし)ろ向(む)きにあらがう",
+        "romaji": "u shi ro mu ki ni a ra ga u"
+      },
+      {
+        "jp": "爱(あい)-same-CRIER",
+        "romaji": "a i-same-crier"
+      },
+      {
+        "jp": "爱抚(あいぶ)-save-LIAR",
+        "romaji": "a i bu-save-liar"
+      },
+      {
+        "jp": "Eid-圣(せい)-Rising HELL",
+        "romaji": "eid-se i-rising hell"
+      },
+      {
+        "jp": "爱(あい)してる Game世界(せかい)のDay",
+        "romaji": "a i shi te ru game se ka i no day"
+      },
+      {
+        "jp": "Don*t-生(せい)-War",
+        "romaji": "dont-se i-war"
+      },
+      {
+        "jp": "Lie-兵士(へいし)-War-World",
+        "romaji": "lie-he i shi-war-world"
+      },
+      {
+        "jp": "Eyes-Hate-War",
+        "romaji": "eyes-hate-war"
+      },
+      {
+        "jp": "A-Z Looser-Krankheit-Was IS das?",
+        "romaji": "a-z looser-krankheit-was is das?"
+      },
+      {
+        "jp": "Leben, was ist das?",
+        "romaji": "leben, was ist das?"
+      },
+      {
+        "jp": "Signal, Siehst du das?",
+        "romaji": "signal, siehst du das?"
+      },
+      {
+        "jp": "Rade, die du nicht weisst",
+        "romaji": "rade, die du nicht weisst"
+      },
+      {
+        "jp": "Aus eigenem Willen",
+        "romaji": "aus eigenem willen"
+      },
+      {
+        "jp": "Leben, was ist das?",
+        "romaji": "leben, was ist das?"
+      },
+      {
+        "jp": "Signal, Siehst du das?",
+        "romaji": "signal, siehst du das?"
+      },
+      {
+        "jp": "Rade, die du nicht weisst",
+        "romaji": "rade, die du nicht weisst"
+      },
+      {
+        "jp": "Sieh mit deinen Augen",
+        "romaji": "sieh mit deinen augen"
+      }
+    ]
+  },
+  {
+    "id": "butterfly",
+    "title": "butterfly",
+    "titleJp": "Butter-Fly",
+    "artist": "和田光司",
+    "lyrics": [
+      {
+        "jp": "ゴキゲンな蝶になって きらめく风に乗って",
+        "romaji": "go ki gen na cyou ni na tte,ki ra me ku ka ze ni no tte",
+        "zh": "好想化做一只蝴蝶 乘著微风振翅高飞"
+      },
+      {
+        "jp": "今すぐ キミに会いに行こう",
+        "romaji": "i ma su gu,ki mi ni a i ni yu kou",
+        "zh": "现在马上 只想赶快和你见面"
+      },
+      {
+        "jp": "余计な事なんて 忘れた方がマシさ",
+        "romaji": "yo ke i na ko to nan te,wa su re ta ho ga ma shi sa",
+        "zh": "烦心的事放在一边 如果忘记那也无所谓"
+      },
+      {
+        "jp": "これ以上 シャレてる时间はない",
+        "romaji": "ko re i jyou,sya re te ru ji gan wa na i",
+        "zh": "已经没有 多余时间可以浪费"
+      },
+      {
+        "jp": "何が WOW WOW～ この空に届くのだろう",
+        "romaji": "na ni ga wow wow～,ko no so ra ni to do ku no da rou",
+        "zh": "似乎有 wow wow~ 什麼事会在这片晴空下出现"
+      },
+      {
+        "jp": "だけど WOW WOW～ 明日の予定もわからない",
+        "romaji": "da ke do wow wow～,a shi ta no yo te i mo wa ka ra na i",
+        "zh": "就算是 wow wow~ 面对未知的明天勇敢去冒险"
+      },
+      {
+        "jp": "无限大な梦のあとの 何もない世の中じゃ",
+        "romaji": "mu gen dai na yu me no a to no,na ni mo nai yo na ka jya",
+        "zh": "在无限延伸的梦想后面 穿越冷酷无情的世界"
+      },
+      {
+        "jp": "そうさ爱しい 想いも负けそうになるけど",
+        "romaji": "so u sa i to shi i,o mo i mo ma ka so u ni na ru ke do",
+        "zh": "不想要输给自己 有你的美丽记忆会让我更努力"
+      },
+      {
+        "jp": "Stayしがちなイメージだらけの 頼りない翼でも",
+        "romaji": "stay shi ga chi nai mee ji da ra ke no,ta yo ri nai tsu ba sa de mo",
+        "zh": "相信爱永远不会止息 即使偶尔会遇上难道"
+      },
+      {
+        "jp": "きっと飞べるさ On My Love",
+        "romaji": "ki i tto to be ru sa,on my love",
+        "zh": "一定能化险为夷 on my love"
+      },
+      {
+        "jp": "ウカレタ蝶になって 一途な风に?#92;って",
+        "romaji": "u ka re ta cyou ni na tte,i chi tsu na ka ze ni no tte",
+        "zh": "仿佛蝴蝶展开双翼 一路迎着微风飞行"
+      },
+      {
+        "jp": "どこまでも キミに会いに行こう",
+        "romaji": "do ko ma de mo,ki mi ni a i ni yu kou",
+        "zh": "直到我和你 相见约定不再分离"
+      },
+      {
+        "jp": "暧昧な言叶って 意外に便利だって",
+        "romaji": "ai ma i na ko to ba tte,i ga i ni be nn ri da tte",
+        "zh": "对你倾吐我的心意 没想到你真的愿意"
+      },
+      {
+        "jp": "叫んでる ヒットソング聴きながら",
+        "romaji": "sa ke nn de ru,hi tto so nn gu ki ki na ga ra",
+        "zh": "陪着我一起 沉醉在幸福的旋律"
+      },
+      {
+        "jp": "何が WOW WOW～ この街に响くのだろう",
+        "romaji": "na ni ga wow wow～,ko no ma chi ni hi bi ku no da rou",
+        "zh": "好像有 wow wow~ 什么声音悄悄从这街角响起"
+      },
+      {
+        "jp": "だけど WOW WOW～ 期待してても仕方ない",
+        "romaji": "da ke do wow wow～,ki ta i shi te te mo shi ka ta na i",
+        "zh": "而现在 wow wow~ 不想再空等让憧憬变成泡影"
+      },
+      {
+        "jp": "无限大な梦のあとの やるせない世の中じゃ",
+        "romaji": "mu gen dai na yu me no a to no,ya ru se nai yo no na ka jya",
+        "zh": "在无限延伸的梦想后面 纵然世界再虚假多变"
+      },
+      {
+        "jp": "そうさ常识 はずれも悪くないかな",
+        "romaji": "sou sa jyo u shi ki,ha ha zu re mo wa ru ku wa nai ka na",
+        "zh": "那些常识 即使不用也不会太差"
+      },
+      {
+        "jp": "Stayしそうなイメージを染めた ぎこちない翼でも",
+        "romaji": "stay shi sou nai mee ji wo so me ta,gi ko chi nai tsu ba sa de mo",
+        "zh": "即使有一双染有停留影像的 不灵活的翅膀"
+      },
+      {
+        "jp": "きっと飞べるさ On My Love",
+        "romaji": "kitto to be ru sa,on my love",
+        "zh": "朝着梦勇往直前 on my love"
+      },
+      {
+        "jp": "无限大な梦のあとの 何もない世の中じゃ",
+        "romaji": "mu gen dai na yu me no a to no,na ni mo nai yo na ka jya",
+        "zh": "在无限延伸的梦想后面 纵然世界再虚假多变"
+      },
+      {
+        "jp": "そうさ爱しい 想いも负けそうになるけど",
+        "romaji": "sou sa i to shii,o mo i mo ma ka sou ni na ru ke do",
+        "zh": "不想要输给自己 有你的美丽记忆会让我更努力"
+      },
+      {
+        "jp": "Stayしがちなイメージだらけの 頼りない翼でも",
+        "romaji": "stay shi ga chi nai mee ji da ra ke no,ta yo ri nai tsu ba sa de mo",
+        "zh": "即使有一双染有停留影像的 不灵活的翅膀"
+      },
+      {
+        "jp": "きっと飞べるさ Oh Yeah～",
+        "romaji": "kitto to be ru sa,oh yeah～",
+        "zh": "一定能化险为夷 Oh Year~"
+      },
+      {
+        "jp": "无限大な梦のあとの やるせない世の中じゃ",
+        "romaji": "mu gen dai na yu me no a to no,ya ru se nai yo na ka jya",
+        "zh": "在无限延伸的梦想后面 纵然世界再虚假多变"
+      },
+      {
+        "jp": "そうさ常识 はずれも悪くないかな",
+        "romaji": "sou sa jyo shi ki,ha zu re mo wa ku nai ka na",
+        "zh": "那些常识 即使不用也不会太差"
+      },
+      {
+        "jp": "Stayしそうなイメージを染めた ぎこちない翼でも",
+        "romaji": "stay shi sou nai mee ji wo so me ta,gi ko chi nai tsu ba sa de mo",
+        "zh": "即使有一双染有停留影像的 不灵活的翅膀"
+      },
+      {
+        "jp": "きっと飞べるさ On My Love",
+        "romaji": "kitto to be ru sa,on my love",
+        "zh": "也一定能高飞 On My Love"
+      }
+    ]
+  },
+  {
+    "id": "departures",
+    "title": "Departures",
+    "titleJp": "Departures 〜あなたにおくるアイの歌〜",
+    "artist": "EGOIST",
+    "lyrics": [
+      {
+        "jp": "もうあなたから爱(あい)されることも",
+        "romaji": "mo u a na ta ka ra a i sa re ru ko to mo",
+        "zh": "你已经不会再爱我"
+      },
+      {
+        "jp": "必要(ひつよう)とされることもない",
+        "romaji": "hi tsu yo u to sa re ru ko to mo na i",
+        "zh": "也不再需要我"
+      },
+      {
+        "jp": "そして私(わたし)はこうして一人(ひとり)ぼっちで",
+        "romaji": "so shi te wa ta shi wa ko u shi te hi to ri bo cchi de",
+        "zh": "于是乎我就这样孤零零一人"
+      },
+      {
+        "jp": "あの时(とき)あなたはなんて言(い)ったの?",
+        "romaji": "a no to ki a na ta wa na n te i tta no",
+        "zh": "那时候你到底说了些什么?"
+      },
+      {
+        "jp": "届(とど)かない言叶(ことば)は宙(ちゅう)を舞(ま)う",
+        "romaji": "to do ka na i ko to ba wa chyu u wo ma u",
+        "zh": "传递不了的话语飘荡空中"
+      },
+      {
+        "jp": "わかってるのに今日(きょう)もしてしまう",
+        "romaji": "wa ka tte ru no ni kyo u mo shi te shi ma u",
+        "zh": "明明心里明白 今天却依旧许下"
+      },
+      {
+        "jp": "叶(かな)わぬ愿(ねが)いごとを",
+        "romaji": "ka na wa nu ne ga i go to wo",
+        "zh": "无法实现的每份心愿"
+      },
+      {
+        "jp": "离(はな)さないで",
+        "romaji": "ha na sa na i de",
+        "zh": "不要松开"
+      },
+      {
+        "jp": "ぎゅっと手(て)を握(にぎ)っていて",
+        "romaji": "gyu tto te wo ni gi tte i te",
+        "zh": "请紧紧握住我的手"
+      },
+      {
+        "jp": "あなたと二人(ふたり)　続(つづ)くと言(い)って",
+        "romaji": "a na ta to fu ta ri tsu zu ku to i tte",
+        "zh": "快说要跟你两人一起走下去"
+      },
+      {
+        "jp": "繋(つな)いだその手(て)は温(あたた)かくて",
+        "romaji": "tsu na i da so no te wa a ta ta ka ku te",
+        "zh": "十指相扣的手暖乎乎的"
+      },
+      {
+        "jp": "优(やさ)しかった",
+        "romaji": "ya sa shi ka tta",
+        "zh": "相当温柔"
+      },
+      {
+        "jp": "あなたはいつもそうやって私(わたし)を",
+        "romaji": "a na ta wa i tsu mo so u ya tte wa ta shi wo",
+        "zh": "你总是若无其事地惹怒我"
+      },
+      {
+        "jp": "怒(おこ)らせて最後(さいご)に泣(な)かすんだ",
+        "romaji": "o ko ra se te sa i go ni na ka su n da",
+        "zh": "最后还弄哭人家"
+      },
+      {
+        "jp": "だけど後(あと)になって",
+        "romaji": "da ke do a to ni na tte",
+        "zh": "然而事过之后"
+      },
+      {
+        "jp": "ごめんねっていうその颜(かお)",
+        "romaji": "go me n ne tte i u so no ka o",
+        "zh": "你对我说道歉的表情"
+      },
+      {
+        "jp": "好(す)きだった",
+        "romaji": "su ki da tta",
+        "zh": "我如是喜欢"
+      },
+      {
+        "jp": "离(はな)さないで",
+        "romaji": "ha na sa na i de",
+        "zh": "不要松开"
+      },
+      {
+        "jp": "ぎゅっと　そう思(おも)いっきり",
+        "romaji": "gyu tto so u o mo i kki ri",
+        "zh": "请尽情地将我抱紧吧"
+      },
+      {
+        "jp": "あなたの腕(うで)の中(なか)にいたい",
+        "romaji": "a na ta no u de no na ka ni i ta i",
+        "zh": "我想跳进你的臂弯中"
+      },
+      {
+        "jp": "二人(ふたり)でおでこをあわせながら",
+        "romaji": "fu ta ri de o de ko wo a wa se na ga ra",
+        "zh": "你我两人相互贴着额头"
+      },
+      {
+        "jp": "眠(ねむ)るの",
+        "romaji": "ne mu ru no",
+        "zh": "迈入梦乡"
+      },
+      {
+        "jp": "もう二度(にど)とは会(あ)えないってことを知(し)ってたの？",
+        "romaji": "mo u ni do to wa na e na i tte ko to wo shi tte ta no",
+        "zh": "你早就知道我们不会再相见?"
+      },
+      {
+        "jp": "离(はな)さないで",
+        "romaji": "ha na sa na i de",
+        "zh": "不要松开"
+      },
+      {
+        "jp": "ぎゅっと　あなたが好(す)き",
+        "romaji": "gyu tto a na ta ga su ki",
+        "zh": "紧抱着我 我喜欢你"
+      },
+      {
+        "jp": "もう一度(いちど)だって笑(わら)ってくれないの",
+        "romaji": "mo u i chi do da tte wa ra tte ku re na i no",
+        "zh": "你就不能再一次对我展露笑容么"
+      },
+      {
+        "jp": "あなたの温(ぬく)もりが消(き)えちゃう前(まえ)に",
+        "romaji": "a na ta no nu ku mo ri ga ki e chya u ma e ni",
+        "zh": "趁着你的温存尚未消逝之前"
+      },
+      {
+        "jp": "抱(だ)きしめて",
+        "romaji": "da ki shi me te",
+        "zh": "请紧拥我"
+      }
+    ]
+  },
+  {
+    "id": "pray",
+    "title": "pray",
+    "titleJp": "Pray",
+    "artist": "Tommy heavenly6",
+    "lyrics": [
+      {
+        "jp": "冷(つめ)たい記憶(きおく)と 空(から)っぽの世界(せかい)",
+        "romaji": "tsu me tai ki o ku to ka ra bo no se kai"
+      },
+      {
+        "jp": "足(た)りないカタチを 縫(ぬ)い合(あ)わせたら",
+        "romaji": "ta ri nai ka ta chi wo mu i a wa se ta ra"
+      },
+      {
+        "jp": "間違(まちが)ってたこと 嫌(きら)ってたこと",
+        "romaji": "ma chi ga te ta ko to ki ra te ta ko to"
+      },
+      {
+        "jp": "まだ戦(たたか)ってるんだよ 終(お)わりはどこだろう",
+        "romaji": "ma da ta ta ka te run da yo o wa ri wa do ko da rou"
+      },
+      {
+        "jp": "怖(こわ)いくらい青(あお)い月(つき)が凛(りん)と鳴(な)く頃(ころ)",
+        "romaji": "ko wa i ku rai a o i tsu ki ga rin to na ku ko ro"
+      },
+      {
+        "jp": "嘘(うそ)つきは希望(きぼう)と出会(であ)う",
+        "romaji": "u so tsu ki wa ki bo u to de au"
+      },
+      {
+        "jp": "離(はな)さないで 私(わたし)を奪(うば)ってよ",
+        "romaji": "ha na sa nai de wa ta shi wo u ba te yo"
+      },
+      {
+        "jp": "消(き)えない罪(つみ)に 消(き)えない罰(ばつ)を",
+        "romaji": "ki e nai tsu mi ni ki e nai ba tsu wo"
+      },
+      {
+        "jp": "約束(やくそく)だから",
+        "romaji": "ya ku so ku da ka ra"
+      },
+      {
+        "jp": "忘(わす)れないで まだ 息(いき)をしてるから",
+        "romaji": "wa su re nai de ma da i ki wo shi te ru ka ra"
+      },
+      {
+        "jp": "ちゃんといつか終(お)わらせてね",
+        "romaji": "cyan to i tsu ka o wa ra se te ne"
+      },
+      {
+        "jp": "約束(やくそく)だから",
+        "romaji": "ya ku so ku da ka ra"
+      },
+      {
+        "jp": "上(うえ)に上(うえ)に堕(お)ちる夢(ゆめ)を 祈(いの)っていいですか",
+        "romaji": "u e ni u e ni o chi ru yu me wo i no te ii de su ka"
+      },
+      {
+        "jp": "失(うしな)ったままの 雲(くも)った心(こころ)",
+        "romaji": "u shi na ta ma ma no ku mo ta ko ko ro"
+      },
+      {
+        "jp": "言(い)いたい言葉(ことば)も 見当(みあ)たらないかな",
+        "romaji": "ii ta i ko to ba mo mi a ta ra nai ka na"
+      },
+      {
+        "jp": "だけど誓(ちか)いが 痛(いた)みに混(ま)ざっていく",
+        "romaji": "da ke do chi ka i ga i ta mi ni ma za ta i ku"
+      },
+      {
+        "jp": "今(いま)抗(あらが)っているんだね 私(わたし)はどうしたら",
+        "romaji": "i ma a ra ga ta te i run da ne wa ta si wa dou shi ta ra"
+      },
+      {
+        "jp": "わかったの 望(のぞ)まれて脈(みゃく)を打(う)つこと",
+        "romaji": "wa ka ta no no zo ma re te mya ku wo u tsu ko to"
+      },
+      {
+        "jp": "\"初(はじ)めて\"が絶望(ぜつぼう)を喰(く)らう",
+        "romaji": "ha ji me te ga ze tsu bou wo ku rau"
+      },
+      {
+        "jp": "止(と)まらないで 私(わたし)が救(すく)うから",
+        "romaji": "to ma ra na i de wa ta shi ga su ku u ka ra"
+      },
+      {
+        "jp": "ありのままを受(う)け止(と)めてね",
+        "romaji": "a ri no ma ma wo u ke to me te ne"
+      },
+      {
+        "jp": "お願(ねが)いだから",
+        "romaji": "o ne ga i da ka ra"
+      },
+      {
+        "jp": "邪魔(じゃま)しないで ほら 元通(もとどお)りにしよう",
+        "romaji": "jya ma shi na i de ho ra mo to do o ri ni shi yo u"
+      },
+      {
+        "jp": "愛(あい)を込(こ)めて理想(りそう)を作(つく)ろう",
+        "romaji": "a i wo ko me te ri sou wo tsu ku rou"
+      },
+      {
+        "jp": "お願(ねが)いだから",
+        "romaji": "o ne ga i da ka ra"
+      },
+      {
+        "jp": "深(ふか)い深(ふか)い夢(ゆめ)の海(うみ)に 溺(おぼ)れるように",
+        "romaji": "hu ka i hu ka i yu me no u mi ni o bo re ru you ni"
+      },
+      {
+        "jp": "鏡(かがみ)の中(なか)には 　　虛(うつ)ろに浮(う)かぶ青(あお)い月(つき)ふたつ",
+        "romaji": "ka ga mi no na ka ni wa u tsu ro ni u ka bu a o i tsu ki hu ta tsu"
+      },
+      {
+        "jp": "始(はじ)めよう 歪(ゆが)んだ笑顔(えがお)を切(き)り裂(さ)いて",
+        "romaji": "ha ji me you yu gan da e ga o wo ki ri sa i te"
+      },
+      {
+        "jp": "ねえ 私(わたし)が判(わか)ったら",
+        "romaji": "nee wa ta shi ga wa ka ta ra"
+      },
+      {
+        "jp": "誰(だれ)も泣(な)いてくれないのかな",
+        "romaji": "da re mo na i te ku re na i no ka na"
+      },
+      {
+        "jp": "終(お)わっちゃうのかな",
+        "romaji": "o wa cya u no ka na"
+      },
+      {
+        "jp": "ねえただ 消(き)えてしまえたら",
+        "romaji": "nee ta da ki e te shi ma e ta ra"
+      },
+      {
+        "jp": "明日(あす)は楽(らく)になれるのかな",
+        "romaji": "a su wa ra ku ni na re ru no ka na"
+      },
+      {
+        "jp": "その手(て)でどうか",
+        "romaji": "so no te de do u ka"
+      },
+      {
+        "jp": "離(はな)さないで 私(わたし)を奪(うば)ってよ",
+        "romaji": "ha na sa nai de wa ta shi wo u ba te yo"
+      },
+      {
+        "jp": "消(き)えない罪(つみ)に 消(き)えない罰(ばつ)を",
+        "romaji": "ki e nai tsu mi ni ki e nai ba tsu wo"
+      },
+      {
+        "jp": "約束(やくそく)だから",
+        "romaji": "ya ku so ku da ka ra"
+      },
+      {
+        "jp": "忘(わす)れないで まだ 息(いき)をしてるから",
+        "romaji": "wa su re nai de ma da i ki wo shi te ru ka ra"
+      },
+      {
+        "jp": "ちゃんといつか終(お)わらせてね",
+        "romaji": "cyan to i tsu ka o wa ra se te ne"
+      },
+      {
+        "jp": "約束(やくそく)だから",
+        "romaji": "ya ku so ku da ka ra"
+      },
+      {
+        "jp": "上(うえ)に上(うえ)に堕(お)ちる夢(ゆめ)を 祈(いの)っていいですか",
+        "romaji": "u e ni u e ni o chi ru yu me wo i no te ii de su ka"
+      },
+      {
+        "jp": "深(ふか)い深(ふか)い夢(ゆめ)の海(うみ)に 溺(おぼ)れるように",
+        "romaji": "hu ka i hu ka i yu me no u mi ni o bo re ru you ni"
+      }
+    ]
+  },
+  {
+    "id": "unravel",
+    "title": "unravel",
+    "titleJp": "unravel",
+    "artist": "TK from 凛として時雨",
+    "lyrics": [
+      {
+        "jp": "教（おし）えて 教（おし）えてよ その仕组（しく）みを",
+        "romaji": "o shi e te o shi e te yo so no shi ku mi wo"
+      },
+      {
+        "jp": "仆（ぼく）の中（なか）に 谁（だれ）かいるの？",
+        "romaji": "bo ku no na ka ni da re kai ru no?"
+      },
+      {
+        "jp": "壊（こわ）れた 壊（こわ）れたよ この世界（せかい）で",
+        "romaji": "ko wa re ta ko wa re ta yo ko no se kai de"
+      },
+      {
+        "jp": "君（きみ）が笑（わら）う 何（なに）も见（み）えずに",
+        "romaji": "ki mi ga wa ra u na ni mo mi e zu ni"
+      },
+      {
+        "jp": "壊（こわ）れた 仆（ぼく）なんてさ 息（いき）を止（と）めて",
+        "romaji": "ko wa re ta bo ku na n te sa i ki wo to me te"
+      },
+      {
+        "jp": "ほどけない もう ほどけないよ",
+        "romaji": "ho do ke na i mo u ho do ke nai yo"
+      },
+      {
+        "jp": "真実（しんじつ）さえ freeze",
+        "romaji": "shi n ji tsu sa e freeze"
+      },
+      {
+        "jp": "壊（こわ）せる 壊（こわ）せない",
+        "romaji": "ko wa se ru ko wa se na i"
+      },
+      {
+        "jp": "狂（くる）える 狂（くる）えない",
+        "romaji": "ku ru e ru ku ru e na i"
+      },
+      {
+        "jp": "あなたを见（み）つけて",
+        "romaji": "a na ta wo mi tsu ke te"
+      },
+      {
+        "jp": "揺（ゆ）れた歪（ゆが）んだ 世界（せかい）に だんだん 仆（ぼく）は",
+        "romaji": "yu re ta yu ga n da se ka i ni da n da n bo ku wa"
+      },
+      {
+        "jp": "透（す）き通（とお）って 见（み）えなく なって",
+        "romaji": "su ki to wo tte mi e na ku na tte"
+      },
+      {
+        "jp": "见（み）つ けないで 仆（ぼく）のことを",
+        "romaji": "mi tsu ke na i de bo ku no ko to wo"
+      },
+      {
+        "jp": "见（み）つめ ないで",
+        "romaji": "mi tsu me na i de"
+      },
+      {
+        "jp": "谁（だれ）かが 描（えが）いた 世界（せかい）の中（なか）で",
+        "romaji": "da re ka ga e ga i ta se ka i no na ka de"
+      },
+      {
+        "jp": "あなたを 伤（きず）つ けたくは ないよ",
+        "romaji": "a na ta wo ki zu tsu ke ta ku wa na i yo"
+      },
+      {
+        "jp": "覚（おぼ）えていて 仆（ぼく）のことを",
+        "romaji": "o bo e te i te bo ku no ko to wo"
+      },
+      {
+        "jp": "鲜（あざ）やかなまま",
+        "romaji": "a za ya ka na ma ma"
+      },
+      {
+        "jp": "无限（むげん）に広（ひろ）がる 孤独（こどく）が络（から）まる",
+        "romaji": "mu ge n ni hi ro ga ru ko do ku ga ka ra ma ru"
+      },
+      {
+        "jp": "无邪気（むじゃき）に笑（わら）った 记忆（きおく）が刺（さ）さって",
+        "romaji": "mu ja ki ni wa ra tta ki o ku ga sa sa tte"
+      },
+      {
+        "jp": "动（うご）けない",
+        "romaji": "u go ke na i"
+      },
+      {
+        "jp": "动（うご）けない",
+        "romaji": "u go ke na i"
+      },
+      {
+        "jp": "动（うご）けない",
+        "romaji": "u go ke na i"
+      },
+      {
+        "jp": "动（うご）けない",
+        "romaji": "u go ke na i"
+      },
+      {
+        "jp": "动（うご）けない",
+        "romaji": "u go ke na i"
+      },
+      {
+        "jp": "动（うご）けないよ",
+        "romaji": "u go ke na i yo"
+      },
+      {
+        "jp": "Unravelling the world",
+        "romaji": "unravelling the world"
+      },
+      {
+        "jp": "変（か）わってしまった 変（か）えられなかった",
+        "romaji": "ka wa tte shi ma tta ka e ra re na ka tta"
+      },
+      {
+        "jp": "2（ふた）つが络（から）まる 2人（ふたり）が灭（ほろ）びる",
+        "romaji": "fu ta tsu ga ka ra ma ru fu ta ri ga ho ro bi ru"
+      },
+      {
+        "jp": "壊（こわ）せる 壊（こわ）せない",
+        "romaji": "ko wa se ru ko wa se na i"
+      },
+      {
+        "jp": "狂（くる）える 狂（くる）えない",
+        "romaji": "ku ru e ru ku ru e na i"
+      },
+      {
+        "jp": "あなたを 汚（けが）せないよ",
+        "romaji": "a na ta wo ke ga se na i yo"
+      },
+      {
+        "jp": "揺（ゆ）れた歪（ゆが）んだ 世界（せかい）に だんだん 仆（ぼく）は",
+        "romaji": "yu re ta yu ga n da se ka i ni da n da n bo ku wa"
+      },
+      {
+        "jp": "透（す）き通（とお）って 见（み）えなく なって",
+        "romaji": "su ki to wo tte mi e na ku na tte"
+      },
+      {
+        "jp": "见（み）つ けないで",
+        "romaji": "mi tsu ke na ide"
+      },
+      {
+        "jp": "仆（ぼく）のことを",
+        "romaji": "bo ku no ko to wo"
+      },
+      {
+        "jp": "见（み）つめ ないで",
+        "romaji": "mi tsu me na i de"
+      },
+      {
+        "jp": "谁（だれ）かが 仕组（しく）んだ 孤独（こどく）な 罠（わな）に",
+        "romaji": "da re ka ga shi ku n da ko do ku na wa na ni"
+      },
+      {
+        "jp": "未来（みらい）が 解（ほど）けて しまう 前（まえ）に",
+        "romaji": "mi ra i ga ho do ke te shi ma u ma e ni"
+      },
+      {
+        "jp": "思（おも）い出（だ）して 仆（ぼく）のことを",
+        "romaji": "o mo i da shi te bo ku no ko to wo"
+      },
+      {
+        "jp": "鲜（あざ）やかなまま",
+        "romaji": "a za ya ka na ma ma"
+      },
+      {
+        "jp": "忘（わす）れないで",
+        "romaji": "wa su re na i de"
+      },
+      {
+        "jp": "忘（わす）れないで",
+        "romaji": "wa su re na i de"
+      },
+      {
+        "jp": "忘（わす）れないで",
+        "romaji": "wa su re na i de"
+      },
+      {
+        "jp": "忘（わす）れないで",
+        "romaji": "wa su re na i de"
+      },
+      {
+        "jp": "変（か）わって しまった ことにParalyze",
+        "romaji": "ka wa tte shi ma tta ko to ni paralyze"
+      },
+      {
+        "jp": "変（か）えられ ないこと だらけParadise",
+        "romaji": "ka e ra re na i ko to da ra ke paradise"
+      },
+      {
+        "jp": "覚え（おぼえ）ていて 仆（ぼく）のことを",
+        "romaji": "o bo e te i te bo ku no ko to wo"
+      },
+      {
+        "jp": "教（おし）えて 教（おし）えて",
+        "romaji": "o shi e te o shi e te"
+      },
+      {
+        "jp": "仆（ぼく）の中（なか）に",
+        "romaji": "bo ku no na ka ni"
+      },
+      {
+        "jp": "谁（だれ）かいるの",
+        "romaji": "da re ka i ru no"
+      }
+    ]
+  },
+  {
+    "id": "aironi",
+    "title": "反语",
+    "titleJp": "アイロニ",
+    "artist": "すこっぷ / majiko",
+    "lyrics": [
+      {
+        "jp": "少（すこ）し歩（ある）き疲（つか）れたんだ",
+        "romaji": "sukoshi aruki tsukaretanda"
+      },
+      {
+        "jp": "少（すこ）し歩（ある）き疲（つか）れたんだ",
+        "romaji": "sukoshi aruki tsukaretanda"
+      },
+      {
+        "jp": "月（つき）並（な）みな表現（ひょうげん）だけど",
+        "romaji": "tsuki nami na hyougen da kedo"
+      },
+      {
+        "jp": "人生（じんせい）とかいう長（なが）い道（みち）を",
+        "romaji": "jinsei to ka iu nagai michi wo"
+      },
+      {
+        "jp": "少（すこ）し休（やす）みたいんだ",
+        "romaji": "sukoshi yasumi tainda"
+      },
+      {
+        "jp": "少（すこ）し休（やす）みたいんだけど",
+        "romaji": "sukoshi yasumi tain da kedo"
+      },
+      {
+        "jp": "時間（じかん）は刻（こく）一刻（いっこく）残酷（ざんこく）と",
+        "romaji": "jikan wa koku ikkoku zankoku to"
+      },
+      {
+        "jp": "私（わたし）を引（ひ）っぱっていくんだ",
+        "romaji": "watashi wo hippatte ikunda"
+      },
+      {
+        "jp": "うまくいきそうなんだけど",
+        "romaji": "umaku ikisou nan da kedo"
+      },
+      {
+        "jp": "うまくいかないことばかりで",
+        "romaji": "umaku ikanai koto bakari de"
+      },
+      {
+        "jp": "迂闊（うかつ）にも泣（な）いてしまいそうになる",
+        "romaji": "ukatsu ni mo naite shimaisou ni naru"
+      },
+      {
+        "jp": "情（なさ）けない本当（ほんとう）にな",
+        "romaji": "nasakenai hontou ni na"
+      },
+      {
+        "jp": "惨（みじ）めな気持（きもち）なんか",
+        "romaji": "mijime na kimochi nanka"
+      },
+      {
+        "jp": "嫌（いや）というほど味（あじ）わってきたし",
+        "romaji": "iya to iu hodo ajiwatte kita shi"
+      },
+      {
+        "jp": "とっくに悔（くや）しさなんてものは",
+        "romaji": "tokku ni kuyashisa nante mono wa"
+      },
+      {
+        "jp": "捨（す）ててきたはずなのに",
+        "romaji": "sutete kita hazu na no ni"
+      },
+      {
+        "jp": "絶望（ぜつぼう）抱（いだ）くほど",
+        "romaji": "zetsubou idaku hodo"
+      },
+      {
+        "jp": "悪（わる）いわけじゃないけど",
+        "romaji": "warui wake ja nai kedo"
+      },
+      {
+        "jp": "欲（ほ）しいものは",
+        "romaji": "hoshii mono wa"
+      },
+      {
+        "jp": "いつも少（すこ）し手（て）には届（とど）かない",
+        "romaji": "itsumo sukoshi te ni wa todokanai"
+      },
+      {
+        "jp": "そんな半端（はんぱ）だとね",
+        "romaji": "sonna hanpa da to ne"
+      },
+      {
+        "jp": "なんか期待（きたい）してしまうから",
+        "romaji": "nanka kitai shite shimau kara"
+      },
+      {
+        "jp": "それならもういっそのこと",
+        "romaji": "sore nara mou isso no koto"
+      },
+      {
+        "jp": "ドン底（ぞこ）まで突（つ）き落（お）としてよ",
+        "romaji": "donzoko made tsukiotoshite yo"
+      },
+      {
+        "jp": "答（こた）えなんて言（い）われたって",
+        "romaji": "kotae nante iwaretatte"
+      },
+      {
+        "jp": "人（ひと）によってすり替（か）わってって",
+        "romaji": "hito ni yotte surikawattette"
+      },
+      {
+        "jp": "だから絶対（ぜったい）なんて絶対（ぜったい）",
+        "romaji": "dakara zettai nante zettai"
+      },
+      {
+        "jp": "信（しん）じらんないよねぇ",
+        "romaji": "shinjirannai yo nee"
+      },
+      {
+        "jp": "苦（くる）しみって誰（だれ）にもあるって",
+        "romaji": "kurushimitte dare ni mo arutte"
+      },
+      {
+        "jp": "そんなのわかってるから何（なん）だって",
+        "romaji": "sonna no wakatteru kara nan datte"
+      },
+      {
+        "jp": "なら笑（わら）って済（す）ませばいいの",
+        "romaji": "nara waratte sumaseba ii no"
+      },
+      {
+        "jp": "もうわかんないよ バカ！",
+        "romaji": "mou wakannai yo baka!"
+      },
+      {
+        "jp": "散々（さんざん）言（い）われてきたくせに",
+        "romaji": "sanzan iwarete kita kuse ni"
+      },
+      {
+        "jp": "なんだまんざらでもないんだ",
+        "romaji": "nanda manzara demo nainda"
+      },
+      {
+        "jp": "簡単（かんたん）に考（かんが）えたら楽（らく）なことも",
+        "romaji": "kantan ni kangaetara raku na koto mo"
+      },
+      {
+        "jp": "難関（なんかん）に考（かんが）えてたんだ",
+        "romaji": "nankan ni kangaetetanda"
+      },
+      {
+        "jp": "段々（だんだん）と色々（いろいろ）めんどくなってもう",
+        "romaji": "dandan to iroiro mendoku natte mou"
+      },
+      {
+        "jp": "淡々（たんたん）と終（お）わらせちゃおうか",
+        "romaji": "tantan to owarasechaou ka"
+      },
+      {
+        "jp": "「病（や）んだ？」とかもう嫌（いや）になったから",
+        "romaji": "「yanda?」to ka mou iya ni natta kara"
+      },
+      {
+        "jp": "やんわりと終（お）わればもういいじゃんか",
+        "romaji": "yanwari to owareba mou ii jan ka"
+      },
+      {
+        "jp": "夢（ゆめ）だとか希望（きぼう）だとか",
+        "romaji": "yume da to ka kibou da to ka"
+      },
+      {
+        "jp": "生（い）きてる意味（いみ）とか",
+        "romaji": "ikiteru imi to ka"
+      },
+      {
+        "jp": "別（べつ）にそんなものはさして",
+        "romaji": "betsu ni sonna mono wa sashite"
+      },
+      {
+        "jp": "必要（ひつよう）ないから",
+        "romaji": "hitsuyou nai kara"
+      },
+      {
+        "jp": "具体的（ぐたいてき）でわかりやすい",
+        "romaji": "gutaiteki de wakariyasui"
+      },
+      {
+        "jp": "機会（きかい）をください",
+        "romaji": "kikai wo kudasai"
+      },
+      {
+        "jp": "泣（な）き場所（ばしょ）探（さが）すうちに",
+        "romaji": "naki basho sagasu uchi ni"
+      },
+      {
+        "jp": "もう泣（な）き疲（つか）れちゃったよ",
+        "romaji": "mou naki tsukarechatta yo"
+      },
+      {
+        "jp": "きれいごとって嫌（きら）いだって",
+        "romaji": "kireigoto tte kirai datte"
+      },
+      {
+        "jp": "期待（きたい）しちゃっても形（かたち）になんなくて",
+        "romaji": "kitai shichattemo katachi ni nannakute"
+      },
+      {
+        "jp": "「星（ほし）が僕（ぼく）ら見守（みまも）って」って",
+        "romaji": "「hoshi ga bokura mimamotte」tte"
+      },
+      {
+        "jp": "夜（よる）しかいないじゃん ねぇ",
+        "romaji": "yoru shika inai jan nee"
+      },
+      {
+        "jp": "君（きみ）のその優（やさ）しいとこ",
+        "romaji": "kimi no sono yasashii toko"
+      },
+      {
+        "jp": "不覚（ふかく）にも求（もと）めちゃうから",
+        "romaji": "fukaku ni mo motomechau kara"
+      },
+      {
+        "jp": "この心（こころ）やらかいとこ",
+        "romaji": "kono kokoro yarakai toko"
+      },
+      {
+        "jp": "もう触（さわ）んないで ヤダ！",
+        "romaji": "mou sawannaide yada!"
+      },
+      {
+        "jp": "もうほっといて",
+        "romaji": "mou hottoite"
+      },
+      {
+        "jp": "もう置（お）いてって",
+        "romaji": "mou oitet te"
+      },
+      {
+        "jp": "汚（よご）れきったこの道（みち）は",
+        "romaji": "yogorekitta kono michi wa"
+      },
+      {
+        "jp": "もう変（か）わんないよ嗚呼（ああ）",
+        "romaji": "mou kawannai yo aa"
+      },
+      {
+        "jp": "疲（つか）れちゃって弱気（よわき）になって",
+        "romaji": "tsukarechatte yowaki ni natte"
+      },
+      {
+        "jp": "逃（に）げ出（だ）したって無駄（むだ）なんだって",
+        "romaji": "nigedashita tte muda nanda tte"
+      },
+      {
+        "jp": "だから内面（ないめん）耳（みみ）塞（ふさ）いで",
+        "romaji": "dakara naimen mimi fusaide"
+      },
+      {
+        "jp": "もう最低（さいてい）だって泣（な）いて",
+        "romaji": "mou saitei datte naite"
+      },
+      {
+        "jp": "人生（じんせい）って何（なん）なのって",
+        "romaji": "jinsei tte nan na no tte"
+      },
+      {
+        "jp": "わかんなくても生（い）きてるだけで",
+        "romaji": "wakankutemo ikiteru dake de"
+      },
+      {
+        "jp": "幸（しあわ）せって思（おも）えばいいの？",
+        "romaji": "shiawase tte omoeba ii no?"
+      },
+      {
+        "jp": "もうわかんないよバカ！",
+        "romaji": "mou wakannai yo baka!"
+      }
+    ]
+  },
+  {
+    "id": "天ノ弱",
+    "title": "天ノ弱",
+    "titleJp": "天ノ弱",
+    "artist": "164 feat. GUMI",
+    "lyrics": [
+      {
+        "jp": "僕(ぼく)がずっと前(まえ)から思(おも)ってる事(こと)を話(はな)そうか",
+        "romaji": "bo ku ga zu n tto ma e ka ra o mo o tte ru ko to wo ha na sou ka",
+        "zh": "说说我一直以来所想的事吧"
+      },
+      {
+        "jp": "友達(ともだち)に戻(もど)れたらこれ以上(いじょう)はもう望(のぞ)まないさ",
+        "romaji": "to mo da ti ni mo do re ta ra ko re i jyou wa mou no zo ma na i sa",
+        "zh": "能回到朋友关系的话我就别无所求了"
+      },
+      {
+        "jp": "君(きみ)がそれでいいなら僕(ぼく)だってそれで構(かま)わないさ",
+        "romaji": "ki mi ga so re de i i na ra bo ku da tte so re de ka ma wa na i sa",
+        "zh": "如果你无所谓的话那我也没关系"
+      },
+      {
+        "jp": "嘘(うそ)つきの僕(ぼく)が吐(は)いたはんたいことばの愛(あい)のうた",
+        "romaji": "u so tsu ki no bo ku ga ha i ta han ta i ko to ba no a i no u ta",
+        "zh": "说谎的我所吐出的　相反话语的爱之歌"
+      },
+      {
+        "jp": "今日(きょう)はこっちの地方(ちほう)はどしゃぶりの晴天(せいてん)でした",
+        "romaji": "kyou wa ko tti no ti hou wa do sya bu ri no se i ten de shi ta",
+        "zh": "今日附近地区是倾盆大雨的大晴天"
+      },
+      {
+        "jp": "昨日(きのう)もずっと暇(ひま)で一日満喫(いちにちまんきつ)してました",
+        "romaji": "ki nou mo zu tto hi ma de i ti ni ti man ki tsu shi te ma shi ta",
+        "zh": "昨天也很闲情地享受过了一天"
+      },
+      {
+        "jp": "別(べつ)に君(きみ)のことなんて考(かんが)えてなんかいないさ",
+        "romaji": "be tsu ni ki mi no ko to nan te kan ga e te nan ka i na i sa",
+        "zh": "也没有在想你的事情"
+      },
+      {
+        "jp": "いやでもちょっと本当(ほんとう)は考(かんが)えてたかもなんてね",
+        "romaji": "i ya de mo tyo tto hon tou wa kan ga e te ta ka mo nan te ne",
+        "zh": "不对 其实搞不好有想过那么一点点"
+      },
+      {
+        "jp": "メリーゴーランドみたいに回(まわ)る",
+        "romaji": "me rii goo ran do mi ta i ni ma wa ru",
+        "zh": "像旋转木马那样"
+      },
+      {
+        "jp": "僕(ぼく)の頭(あたま)ん中(なか)はもうグルグルさ",
+        "romaji": "bo ku no a ta man na ka wa mou gu ru gu ru sa",
+        "zh": "在我的脑袋中转个不停"
+      },
+      {
+        "jp": "この両手(りょうて)から零(こぼ)れそうなほど",
+        "romaji": "ko no ryou te ka ra ko bo re sou na ho do",
+        "zh": "快要从这双手中溢出来般"
+      },
+      {
+        "jp": "君(きみ)に貰(もら)った愛(あい)はどこに捨(す)てよう？",
+        "romaji": "ki mi ni mo ra tta a i wa do ko ni su te you",
+        "zh": "你给的爱要丢向何处才好？"
+      },
+      {
+        "jp": "限(かぎ)りのある消耗品(しょうもうひん)なんて僕(ぼく)は",
+        "romaji": "ka gi ri no a ru syou mou hin nan te bo ku wa",
+        "zh": "这种有限的消耗品"
+      },
+      {
+        "jp": "要(い)らないよ",
+        "romaji": "i ra na i yo",
+        "zh": "我可不要"
+      },
+      {
+        "jp": "僕(ぼく)がずっと前(まえ)から思(おも)ってる事(こと)を話(はな)そうか",
+        "romaji": "bo ku ga zu tto ma e ka ra o mo tte ru ko to wo ha na sou ka",
+        "zh": "说说我很久前就在想着的事吧"
+      },
+      {
+        "jp": "姿(すがた)は見(み)えないのに言葉(ことば)だけ見(み)えちゃってるんだ",
+        "romaji": "su ga ta wa mi e na i no ni ko to ba da ke mi e tya tte run da",
+        "zh": "明明看不到身影却只能看见言语"
+      },
+      {
+        "jp": "僕(ぼく)が知(し)らないことがあるだけで気(き)が狂(くる)いそうだ",
+        "romaji": "bo ku ga shi ra na i ko to ga a ru da ke de ki ga ku ru i sou da",
+        "zh": "只要有我所不知道的事情就几乎要疯掉"
+      },
+      {
+        "jp": "ぶら下(さ)がった感情(かんじょう)が 綺麗(きれい)なのか汚(きたな)いのか",
+        "romaji": "bu ra sa ga a tta kan jyou ga ki re i na no ka ki ta na i no ka",
+        "zh": "摇摆不定的的感情　是美丽还是污秽"
+      },
+      {
+        "jp": "僕(ぼく)にはまだわからず捨(す)てる宛(あ)てもないんだ",
+        "romaji": "bo ku ni wa ma da wa ka ra zu su te ru a te mo na in da",
+        "zh": "我还不知道　也没地方可丢弃"
+      },
+      {
+        "jp": "言葉(ことば)の裏(うら)の裏(うら)が見(み)えるまで待(ま)つからさ",
+        "romaji": "ko to ba no u ra no u ra ga mi e ru ma de ma tsu ka ra sa",
+        "zh": "我会等到能看清言语的最深处"
+      },
+      {
+        "jp": "待(ま)つくらいならいいじゃないか",
+        "romaji": "ma tsu ku ra i na ra i i jya na i ka",
+        "zh": "只是等待的话那也不错啊"
+      },
+      {
+        "jp": "進(すす)む君(きみ)と止(と)まった僕(ぼく)の",
+        "romaji": "su su mu ki mi to to ma tta bo ku no",
+        "zh": "前进的你与停步的我"
+      },
+      {
+        "jp": "縮(ちぢ)まらない隙(すき)を何(なん)で埋(う)めよう？",
+        "romaji": "ti ji ma ra na i su ki wo nan de u me you",
+        "zh": "不会缩短的间隔该填什麽进去？"
+      },
+      {
+        "jp": "まだ素直(すなお)に言葉(ことば)に出来(でき)ない僕(ぼく)は",
+        "romaji": "ma da su na o ni ko to ba ni de ki na i bo ku wa",
+        "zh": "仍然无法直率的说出口的我"
+      },
+      {
+        "jp": "天性(てんせい)の弱虫(よわむし)さ",
+        "romaji": "ten se i no yo wa mu shi sa",
+        "zh": "是天生的胆小鬼"
+      },
+      {
+        "jp": "この両手(りょうて)から零(こぼ)れそうなほど",
+        "romaji": "ko no ryou te ka ra ko bo re sou na ho da",
+        "zh": "快要从这双手中溢出来般"
+      },
+      {
+        "jp": "君(きみ)に渡(わた)す愛(あい)を誰(だれ)に譲(ゆず)ろう？",
+        "romaji": "ki mi ni wa ta su a i wo da re ni yu zu rou",
+        "zh": "这份要递给你的爱该转给谁呢？"
+      },
+      {
+        "jp": "そんなんどこにも宛(あ)てがあるわけないだろ",
+        "romaji": "son nan do ko ni mo a te ga a ru wa ke na i da ro",
+        "zh": "那是我也还没找到的目标"
+      },
+      {
+        "jp": "まだ待(ま)つよ",
+        "romaji": "ma da ma tsu yo",
+        "zh": "我还会在等待"
+      },
+      {
+        "jp": "も う い い か い",
+        "romaji": "mou i i ka i",
+        "zh": "这样可以了吗"
+      }
+    ]
+  },
+  {
+    "id": "她曾活过啊",
+    "title": "她曾活过啊",
+    "titleJp": "生きていたんだよな",
+    "artist": "あいみょん",
+    "lyrics": [
+      {
+        "jp": "二日前このへんで",
+        "romaji": "futsuka mae kono hen de",
+        "zh": "两天前这里附近"
+      },
+      {
+        "jp": "飞び降り自杀した人の",
+        "romaji": "tobiori jisatsu shi ta hito no",
+        "zh": "有人跳楼自杀了"
+      },
+      {
+        "jp": "ニュースが流れてきた",
+        "romaji": "nyūsu ga nagare te ki ta",
+        "zh": "电视里播着这样一则新闻"
+      },
+      {
+        "jp": "血まみれセーラー",
+        "romaji": "chimamire sērā",
+        "zh": "满是血迹的水手服"
+      },
+      {
+        "jp": "濡れ衣センコー",
+        "romaji": "nureginu senkō",
+        "zh": "被定上罪名"
+      },
+      {
+        "jp": "たちまちここらはネットの饵食",
+        "romaji": "tachimachi kokora wa netto no ejiki",
+        "zh": "短时间内成为了网上的热议"
+      },
+      {
+        "jp": "「危ないですから离れてください」",
+        "romaji": "abunai desu kara hanare te kudasai",
+        "zh": "这里很危险 请大家让开"
+      },
+      {
+        "jp": "そのセリフが集合の合図なのにな",
+        "romaji": "sono serifu ga shūgō no aizu na noni na",
+        "zh": "那句话反而引来无数的围观群众"
+      },
+      {
+        "jp": "马鹿騒ぎした奴らが",
+        "romaji": "bakasawagi shi ta yatsura ga",
+        "zh": "他们炸开了锅似的"
+      },
+      {
+        "jp": "アホみたいに撮りまくった",
+        "romaji": "aho mitai ni torimakutta",
+        "zh": "掏出手机拍下照片"
+      },
+      {
+        "jp": "冷たいアスファルトに流れる",
+        "romaji": "tsumetai asufaruto ni nagareru",
+        "zh": "无声的血"
+      },
+      {
+        "jp": "あの血の何とも言えない",
+        "romaji": "ano chi no nan to mo ie nai",
+        "zh": "流淌在冰冷的沥青上"
+      },
+      {
+        "jp": "赤さが绮丽で绮丽で",
+        "romaji": "aka sa ga kirei de kirei de",
+        "zh": "那鲜红色是那样美丽"
+      },
+      {
+        "jp": "泣いてしまったんだ",
+        "romaji": "nai te shimatta n da",
+        "zh": "哭泣着"
+      },
+      {
+        "jp": "泣いてしまったんだ",
+        "romaji": "nai te shimatta n da",
+        "zh": "哭泣着"
+      },
+      {
+        "jp": "何も知らない",
+        "romaji": "nani ni mo shira nai",
+        "zh": "在一无所知的"
+      },
+      {
+        "jp": "ブラウン管の外侧で",
+        "romaji": "buraunkan no sotogawa de",
+        "zh": "显像管的外侧"
+      },
+      {
+        "jp": "生きて生きて生きて生きて生きて",
+        "romaji": "iki te iki te iki te iki te iki te",
+        "zh": "她活过 她活过 她活过 她活过 她活过"
+      },
+      {
+        "jp": "生きて生きて生きていたんだよな",
+        "romaji": "iki te iki te iki te i ta n da yo na",
+        "zh": "她活过 她活过 她也曾活过啊"
+      },
+      {
+        "jp": "最後のサヨナラは他の谁でもなく",
+        "romaji": "saigo no sayonara wa hoka no dare demo naku",
+        "zh": "最后的那声再见不为任何人"
+      },
+      {
+        "jp": "自分に叫んだんだろう",
+        "romaji": "jibun ni saken da n daro u",
+        "zh": "只为了自己而喊"
+      },
+      {
+        "jp": "彼女が最後に流した涙",
+        "romaji": "kanojo ga saigo ni nagashi ta namida",
+        "zh": "女孩最后流下的眼泪"
+      },
+      {
+        "jp": "生きた证の赤い血は",
+        "romaji": "iki ta akashi no akai chi wa",
+        "zh": "是证明她活过的鲜血"
+      },
+      {
+        "jp": "何も知らない大人たちに",
+        "romaji": "nani mo shira nai otona tachi ni",
+        "zh": "最后却在短短的两秒钟之内"
+      },
+      {
+        "jp": "二秒で拭き取られてしまう",
+        "romaji": "ni byō de fukitorare te shimau",
+        "zh": "就被陌生的大人清理干净了"
+      },
+      {
+        "jp": "立ち入り禁止の黄色いテープ",
+        "romaji": "tachiiri kinshi no kiiroi tēpu",
+        "zh": "贴上禁止入内的黄色胶带"
+      },
+      {
+        "jp": "「ドラマでしかみたことなーい」",
+        "romaji": "dorama de shika mi ta koto nā i",
+        "zh": "听见人们在议论纷纷地说"
+      },
+      {
+        "jp": "そんな言叶が飞び交う中で",
+        "romaji": "sonna kotoba ga tobikau naka de",
+        "zh": "这种情景只在电视上看到过"
+      },
+      {
+        "jp": "いま彼女はいったい何を",
+        "romaji": "ima kanojo wa ittai nani wo",
+        "zh": "而此时此刻这女孩"
+      },
+      {
+        "jp": "思っているんだろう",
+        "romaji": "omotte iru n daro u",
+        "zh": "到底在想着什么呢"
+      },
+      {
+        "jp": "远くで远くで",
+        "romaji": "tōku de tōku de",
+        "zh": "在远方 远方"
+      },
+      {
+        "jp": "泣きたくなったんだ",
+        "romaji": "naki taku natta n da",
+        "zh": "想要哭"
+      },
+      {
+        "jp": "泣きたくなったんだ",
+        "romaji": "naki taku natta n da",
+        "zh": "想要哭"
+      },
+      {
+        "jp": "长いはずの一日がもう暮れる",
+        "romaji": "nagai hazu no ichi nichi ga mō kureru",
+        "zh": "原本漫长的一天却已日暮西山"
+      },
+      {
+        "jp": "生きて生きて生きて生きて生きて",
+        "romaji": "iki te iki te iki te iki te iki te",
+        "zh": "她活过 她活过 她活过 她活过 她活过"
+      },
+      {
+        "jp": "生きて生きて生きていたんだよな",
+        "romaji": "iki te iki te iki te i ta n da yo na",
+        "zh": "她活过 她活过 她也曾活过啊"
+      },
+      {
+        "jp": "新しい何かが始まる时",
+        "romaji": "atarashii nani ka ga hajimaru toki",
+        "zh": "当迎来一个新的开始之时"
+      },
+      {
+        "jp": "消えたくなっちゃうのかな",
+        "romaji": "kie taku nacchau no ka na",
+        "zh": "可能只会想让自己消失吧"
+      },
+      {
+        "jp": "「今ある命を精一杯生きなさい」なんて",
+        "romaji": "ima aru inochi wo seiippai ikinasai nante",
+        "zh": "说什么把握当下 生命要活得精彩"
+      },
+      {
+        "jp": "绮丽事だな",
+        "romaji": "kireigoto da na.",
+        "zh": "只是漂亮话罢了"
+      },
+      {
+        "jp": "精一杯勇気を振り绞って",
+        "romaji": "seiippai yūki wo furishibotte",
+        "zh": "拿出全部的勇气"
+      },
+      {
+        "jp": "彼女は空を飞んだ",
+        "romaji": "kanojo wa sora wo ton da",
+        "zh": "她纵身一跃飞过天空"
+      },
+      {
+        "jp": "鸟になって雲をつかんで",
+        "romaji": "tori ni natte kumo wo tsukan de",
+        "zh": "成了飞鸟抓住云彩"
+      },
+      {
+        "jp": "风になって遥か远くへ",
+        "romaji": "kaze ni natte haruka tōku e",
+        "zh": "化为风 飞向远方"
+      },
+      {
+        "jp": "希望を抱いて飞んだ",
+        "romaji": "kibō o dai te ton da",
+        "zh": "她怀抱希望纵身一跃"
+      },
+      {
+        "jp": "生きて生きて生きて生きて生きて",
+        "romaji": "iki te iki te iki te iki te iki te",
+        "zh": "她活过 她活过 她活过 她活过 她活过"
+      },
+      {
+        "jp": "生きて生きて生きていたんだよな",
+        "romaji": "iki te iki te iki te i ta n da yo na",
+        "zh": "她活过 她活过 她也曾活过啊"
+      },
+      {
+        "jp": "新しい何かが始まる时",
+        "romaji": "atarashii nani ka ga hajimaru toki",
+        "zh": "当迎来一个新的开始之时"
+      },
+      {
+        "jp": "消えたくなっちゃうのかな",
+        "romaji": "kie taku nacchau no ka na",
+        "zh": "可能只会想让自己消失吧"
+      },
+      {
+        "jp": "生きて生きて生きて生きて生きて",
+        "romaji": "iki te iki te iki te iki te iki te",
+        "zh": "她活过 她活过 她活过 她活过 她活过"
+      },
+      {
+        "jp": "生きて生きて生きていたんだよな",
+        "romaji": "iki te iki te iki te i ta n da yo na",
+        "zh": "她活过 她活过 她也曾活过啊"
+      },
+      {
+        "jp": "最後のサヨナラは",
+        "romaji": "saigo no sayonara",
+        "zh": "最后的那声再见"
+      },
+      {
+        "jp": "他の谁でもなく",
+        "romaji": "hoka no dare demo naku",
+        "zh": "不为任何人"
+      },
+      {
+        "jp": "自分に叫んだんだろう",
+        "romaji": "jibun ni saken da n daro u",
+        "zh": "只为了自己而喊"
+      },
+      {
+        "jp": "サヨナラサヨナラ",
+        "romaji": "sayonara sayonara",
+        "zh": "再见 永别了"
+      }
+    ]
+  },
+  {
+    "id": "kokoronashi",
+    "title": "心做し",
+    "titleJp": "心做し",
+    "artist": "蝶々P / GUMI",
+    "lyrics": [
+      {
+        "jp": "ねぇ、もしも全（すべ）て投（な）げ舍（す）てられたら",
+        "romaji": "nee moshimo subete nagesuteraretara",
+        "zh": "呐，若然能将一切舍弃的话"
+      },
+      {
+        "jp": "笑（わら）って生（い）きることが楽（らく）になるの？",
+        "romaji": "waratte ikiru koto ga raku ni naru no?",
+        "zh": "笑着活下去这样的事就会变得轻松吗？"
+      },
+      {
+        "jp": "また胸（むね）が痛（いた）くなるから",
+        "romaji": "mata mune ga itaku naru kara",
+        "zh": "胸口又再疼痛起来呢"
+      },
+      {
+        "jp": "もう何（なに）も言（い）わないでよ",
+        "romaji": "mou nani mo iwanaide yo",
+        "zh": "够了什么都不要说了啊"
+      },
+      {
+        "jp": "ねぇ、もしも全（すべ）て忘（わす）れられたなら",
+        "romaji": "nee moshimo subete wasurerareta nara",
+        "zh": "呐，若然一切都能尽数忘却的话"
+      },
+      {
+        "jp": "泣（な）かないで生（い）きることも楽（らく）になるの？",
+        "romaji": "nakanaide ikiru koto mo raku ni naru no?",
+        "zh": "不再哭泣而活下去这事亦会变得轻松吗？"
+      },
+      {
+        "jp": "でもそんな事（こと）出来（でき）ないから",
+        "romaji": "demo sonna koto dekinai kara",
+        "zh": "然而那般的事是不可能的呢"
+      },
+      {
+        "jp": "もう何（なに）も见（み）せないでよ",
+        "romaji": "mou nani mo misenaide yo",
+        "zh": "够了什么都不要再给我看啊"
+      },
+      {
+        "jp": "君（きみ）にどれだけ近（ちか）づいても",
+        "romaji": "kimi ni dore dake chikazuitemo",
+        "zh": "就算怎样接近你"
+      },
+      {
+        "jp": "仆（ぼく）の心臓（しんぞう）は一（ひと）つだけ",
+        "romaji": "boku no shinzou wa hitotsu dake",
+        "zh": "我的心脏亦是仅此唯一的"
+      },
+      {
+        "jp": "酷（ひど）いよ 酷（ひど）いよ、もういっそ仆（ぼく）の体（からだ）を",
+        "romaji": "hidoi yo hidoi yo, mou isso boku no karada wo",
+        "zh": "太残酷了 太残酷了，干脆将我的身体"
+      },
+      {
+        "jp": "壊（こわ）して 引（ひ）き裂（さ）いて 好（す）きなようにしてよ",
+        "romaji": "kowashite hikisaite suki na you ni shite yo",
+        "zh": "破坏吧 撕裂吧 随你喜欢地处置吧"
+      },
+      {
+        "jp": "叫（さけ）んで 藻掻（もが）いて 睑（まぶた）を肿（は）らしても",
+        "romaji": "sakende mogaite mabuta wo harashitemo",
+        "zh": "不论怎样呼叫 怎样挣扎 怎样哭得双眼红肿也好"
+      },
+      {
+        "jp": "まだ君（きみ）は仆（ぼく）の事（こと）を抱（だ）きしめて离（はな）さない",
+        "romaji": "mada kimi wa boku no koto wo dakishimete hanasanai",
+        "zh": "你还是紧抱着我永不分离"
+      },
+      {
+        "jp": "もういいよ",
+        "romaji": "mou ii yo",
+        "zh": "已经够了啊"
+      },
+      {
+        "jp": "ねぇ、もしも仆（ぼく）の愿（ねが）いが叶（かな）うなら",
+        "romaji": "nee moshimo boku no negai ga kanau nara",
+        "zh": "呐，若然我的愿望能得以实现的话"
+      },
+      {
+        "jp": "君（きみ）と同（おな）じものが欲（ほ）しいんだ",
+        "romaji": "kimi to onaji mono ga hoshii nda",
+        "zh": "我想要得到与你相同的事物呢"
+      },
+      {
+        "jp": "でも仆（ぼく）には存在（そんざい）しないから",
+        "romaji": "demo boku ni wa sonzai shinai kara",
+        "zh": "但因为对我而言那般的东西并不存在"
+      },
+      {
+        "jp": "じゃあせめて此処（ここ）に来（き）てよ",
+        "romaji": "jaa semete koko ni kite yo",
+        "zh": "所以啊至少希望你到来这里啊"
+      },
+      {
+        "jp": "君（きみ）にどれだけ爱（あい）されても",
+        "romaji": "kimi ni dore dake aisaretemo",
+        "zh": "就算有多被你所爱"
+      },
+      {
+        "jp": "仆（ぼく）の心臓（しんぞう）は一（ひと）つだけ",
+        "romaji": "boku no shinzou wa hitotsu dake",
+        "zh": "我的心脏亦是仅此唯一的"
+      },
+      {
+        "jp": "やめてよ やめてよ、优（やさ）しくしないでよ",
+        "romaji": "yamete yo yamete yo, yasashiku shinaide yo",
+        "zh": "停止吧 停止吧，不要对我那么温柔啊"
+      },
+      {
+        "jp": "どうしても仆（ぼく）には理解（りかい）ができないよ",
+        "romaji": "doushitemo boku ni wa rikai ga dekinai yo",
+        "zh": "不论怎样我亦无法理解啊"
+      },
+      {
+        "jp": "痛（いた）いよ 痛（いた）いよ、言叶（ことば）で教（おし）えてよ",
+        "romaji": "itai yo itai yo, kotoba de oshiete yo",
+        "zh": "好痛啊 好痛啊，用言语告诉我吧"
+      },
+      {
+        "jp": "こんなの知（し）らないよ 独（ひと）りにしないで",
+        "romaji": "konna no shiranai yo hitori ni shinaide",
+        "zh": "这样的事我不懂啊 不要让我独自一人"
+      },
+      {
+        "jp": "酷（ひど）いよ 酷（ひど）いよ、もういっそ仆（ぼく）の体（からだ）を",
+        "romaji": "hidoi yo hidoi yo, mou isso boku no karada wo",
+        "zh": "太残酷了 太残酷了，干脆将我的身体"
+      },
+      {
+        "jp": "壊（こわ）して 引（ひ）き裂（さ）いて 好（す）きなようにしてよ",
+        "romaji": "kowashite hikisaite suki na you ni shite yo",
+        "zh": "破坏吧 撕裂吧 随你喜欢地处置吧"
+      },
+      {
+        "jp": "叫（さけ）んで 藻掻（もが）いて 睑（まぶた）を肿（は）らしても",
+        "romaji": "sakende mogaite mabuta wo harashitemo",
+        "zh": "不论怎样呼叫 怎样挣扎 怎样哭得双眼红肿也好"
+      },
+      {
+        "jp": "まだ君（きみ）は仆（ぼく）の事（こと）を抱（だ）きしめて离（はな）さない",
+        "romaji": "mada kimi wa boku no koto wo dakishimete hanasanai",
+        "zh": "你还是紧抱着我永不分离"
+      },
+      {
+        "jp": "もういいよ",
+        "romaji": "mou ii yo",
+        "zh": "已经够了啊"
+      },
+      {
+        "jp": "ねぇ、もしも仆（ぼく）に心（こころ）があるなら",
+        "romaji": "nee moshimo boku ni kokoro ga aru nara",
+        "zh": "呐，若然我拥有心的话"
+      },
+      {
+        "jp": "どうやってそれを见（み）つければいいの？",
+        "romaji": "douyatte sore wo mitsukereba ii no?",
+        "zh": "那我该怎样去寻找那物才好呢？"
+      },
+      {
+        "jp": "少（すこ）し微笑（ほほえ）んで君（きみ）が言（い）う",
+        "romaji": "sukoshi hohoende kimi ga iu",
+        "zh": "稍作微笑的你言道"
+      },
+      {
+        "jp": "「それはね、ここにあるよ」",
+        "romaji": "「sore wa ne, koko ni aru yo」",
+        "zh": "「那个啊，就在这里哦」"
+      }
+    ]
+  },
+  {
+    "id": "心拍数",
+    "title": "心拍数",
+    "titleJp": "心拍数♯0822",
+    "artist": "蝶々P feat. 初音ミク",
+    "lyrics": [
+      {
+        "jp": "僕（ぼく）の心臓（しんぞう）がね、止（と）まる頃（ころ）にはね",
+        "romaji": "bo ku no shi n zo u ga ne to ma ru ko ro ni wa ne",
+        "zh": "在我的心脏，停下的时候呢"
+      },
+      {
+        "jp": "きっとこの世をね、満吃し终わっていると思うんだ",
+        "romaji": "ki tto ko no yo wo ne ma n ki tsu shi o wa tte i ru to o mo u n da",
+        "zh": "我一定是觉得已经，充分享受过这个世界才结束的吧"
+      },
+      {
+        "jp": "やり残したこと、なんにもないくらい",
+        "romaji": "ya ri no ko shi ta ko to na n ni mo na i ku ra i",
+        "zh": "彷佛没做完的事，几乎都没有般"
+      },
+      {
+        "jp": "君の隣でさ、笑い続けていたいと思うんだ",
+        "romaji": "ki mi no to na ri de sa wa ra i tsu zu ke te i ta i to o mo u n da",
+        "zh": "希望能在你身旁，一直笑著"
+      },
+      {
+        "jp": "この胸が脉打つうちは君をまだ守っていたい",
+        "romaji": "ko no mu ne ga mya ku u tsu u chi wa ki mi wo ma da ma mo tte i ta i",
+        "zh": "仍然想在这颗心跳动的时间内守护你"
+      },
+      {
+        "jp": "生きる意味なんてそれでいいの",
+        "romaji": "i ki ru i mi na n te so re de i i no i i no",
+        "zh": "只要以那件事为生存意义就好了"
+      },
+      {
+        "jp": "もう一つ、もう一つって同じ涙を数えて",
+        "romaji": "mo u hi to tsu mo u hi to tsu tte o na ji na mi da wo ka zo e te",
+        "zh": "「再一个、再一个」的数著相同的眼泪"
+      },
+      {
+        "jp": "仆らはまたお互いを知るんだ",
+        "romaji": "bo ku ra wa ma ta o ta ga i wo shi ru n da",
+        "zh": "我们又再度了解了彼此"
+      },
+      {
+        "jp": "高鸣る鼓动が伝えてく",
+        "romaji": "ta ka na ru ko do u ga tsu ta e te ku",
+        "zh": "巨大的跳动声传达来的"
+      },
+      {
+        "jp": "重なる音と流れる想いを",
+        "romaji": "ka sa na ru o to to na ga re ru o mo i wo",
+        "zh": "重叠的声响与流泄的思念"
+      },
+      {
+        "jp": "もう离さないと约束しよう",
+        "romaji": "mo u ha na sa na i to ya ku so ku shi yo u",
+        "zh": "约定再也不要分开吧"
+      },
+      {
+        "jp": "いつでも君が寂しくないように",
+        "romaji": "i tsu de mo ki mi ga sa bi shi ku na i yo u ni",
+        "zh": "希望无论何时都不要让你寂寞"
+      },
+      {
+        "jp": "仆の心臓はね、1分间にね",
+        "romaji": "bo ku no shi n zo u wa ne i ppu n ka n ni ne",
+        "zh": "我的心脏，在一分钟内呢"
+      },
+      {
+        "jp": "70回のね、「生きている」を叫んでるんだ",
+        "romaji": "na na jyu u ka i no ne 「i ki te i ru」wo sa ke n de ru n da",
+        "zh": "会喊出70次的，「我正活著」"
+      },
+      {
+        "jp": "でも君と居ると、少し駆け足で",
+        "romaji": "de mo ki mi to i ru to su ko shi ka ke a shi de",
+        "zh": "但是和你在一起时，就会稍微加快脚步"
+      },
+      {
+        "jp": "110回のね、「爱している」を叫ぶんだ",
+        "romaji": "hya ku jyu u ka i no ne 「a i shi te i ru」wo sa ke bu n da",
+        "zh": "喊出110次的，「我爱你」"
+      },
+      {
+        "jp": "この胸が脉打つうちは君をまだ守っていたい",
+        "romaji": "ko no mu ne ga mya ku u tsu u chi wa ki mi wo ma da ma mo tte i ta i",
+        "zh": "仍然想在这颗心跳动的时间内守护你"
+      },
+      {
+        "jp": "生きる意味なんてそれでいいの",
+        "romaji": "i ki ru i mi na n te so re de i i no i i no",
+        "zh": "只要以那件事为生存意义就好了"
+      },
+      {
+        "jp": "もう一度、もう一度って同じ心を重ねて",
+        "romaji": "mo u i chi do mo u i chi do tte o na ji ko ko ro wo ka sa ne te",
+        "zh": "「再一次、再一次」的重叠相同的心意"
+      },
+      {
+        "jp": "仆らはまたお互いを知るんだ",
+        "romaji": "bo ku ra wa ma ta o ta ga i wo shi ru n da",
+        "zh": "我们又再度了解了彼此"
+      },
+      {
+        "jp": "仆と君が出会えたことに",
+        "romaji": "bo ku to ki mi ga de a e ta ko to ni",
+        "zh": "如果我和你的相遇"
+      },
+      {
+        "jp": "何か理由があるとするならば",
+        "romaji": "na ni ka ri yu u ga a ru to su ru na ra ba",
+        "zh": "是有什麼理由的话"
+      },
+      {
+        "jp": "运命かは分からなくても",
+        "romaji": "u n me i ka wa wa ka ra na ku te mo",
+        "zh": "就算不知道是不是命运"
+      },
+      {
+        "jp": "嬉しいことに変わりはないよね",
+        "romaji": "u re shi i ko to ni ka wa ri wa na i yo ne",
+        "zh": "那份喜悦也是不会改变的喔"
+      },
+      {
+        "jp": "いつか仆をやめるときまで",
+        "romaji": "i tsu ka bo ku wo ya me ru to ki ma de",
+        "zh": "直到某天你放弃我为止"
+      },
+      {
+        "jp": "あと何度「好き」と言えるのだろう？",
+        "romaji": "a to na n do 「su ki」to i e ru no da ro u？",
+        "zh": "你还会说出多少次「喜欢」呢？"
+      },
+      {
+        "jp": "ここに居られることに感谢しよう",
+        "romaji": "ko ko ni i ra re ru ko to ni ka n sya shi yo u",
+        "zh": "去感谢能身在这里的这件事吧"
+      },
+      {
+        "jp": "ただ生きていることにありがとう。",
+        "romaji": "ta da i ki te i ru ko to ni a ri ga to u",
+        "zh": "就为了活著这件事而感谢吧"
+      },
+      {
+        "jp": "高鸣る鼓动が伝えてく",
+        "romaji": "ta ka na ru ko do u ga tsu ta e te ku",
+        "zh": "巨大的跳动声传达来的"
+      },
+      {
+        "jp": "重なる音と流れる想いを",
+        "romaji": "ka sa na ru o to to na ga re ru o mo i wo",
+        "zh": "重叠的声响与流泄的思念"
+      },
+      {
+        "jp": "爱し続けると约束しよう",
+        "romaji": "a i shi tsu zu ke ru to ya ku so ku shi yo u",
+        "zh": "约定一直相爱下去吧"
+      },
+      {
+        "jp": "心拍が止まってしまうまで",
+        "romaji": "shi n pa ku ga to ma tte shi ma u ma de",
+        "zh": "直到心跳停止为止"
+      }
+    ]
+  },
+  {
+    "id": "明日的夜空哨戒班",
+    "title": "明日的夜空哨戒班",
+    "titleJp": "アスノヨゾラ哨戒班",
+    "artist": "Orangestar feat. IA",
+    "lyrics": [
+      {
+        "jp": "気分(きぶん)次第(しだい)です仆(ぼく)は",
+        "romaji": "ki bu nn shi da i de su bo ku wa"
+      },
+      {
+        "jp": "敌(てき)を选(えら)んで戦(たたか)う少年(しょうねん)",
+        "romaji": "te ki o e ra nn de ta ta ka u shyo u ne nn"
+      },
+      {
+        "jp": "叶(かな)えたい未来(みらい)も无(な)くて",
+        "romaji": "ka na e ta i mi ra i mo na ku te"
+      },
+      {
+        "jp": "梦(ゆめ)に描(か)かれるのを待(ま)ってた",
+        "romaji": "yu me ni ka ka re ru no wo ma tte ta"
+      },
+      {
+        "jp": "そのくせ未来(みらい)が怖(こわ)くて",
+        "romaji": "so no ku se mi ra i ga ko wa ku te"
+      },
+      {
+        "jp": "明日(あす)を嫌(きら)って过去(かこ)に愿(ねが)って",
+        "romaji": "a su wo ki ra tte ka ko ni ne ga tte"
+      },
+      {
+        "jp": "もう如何(どう)しようも无(な)くなって叫(さけ)ぶんだ",
+        "romaji": "mo u do u shi yo u mo na ku na tte sa ke bu nn da"
+      },
+      {
+        "jp": "明日(あす)よ明日(あす)よもう来(こ)ないでよって",
+        "romaji": "a su yo a su yo mo u ko na i de yo tte"
+      },
+      {
+        "jp": "そんな仆(ぼく)を置(お)いで",
+        "romaji": "so nn na bo ku wo o i de"
+      },
+      {
+        "jp": "月(つき)は沈(しず)み日(ひ)は升(のぼ)る",
+        "romaji": "tsu ki wa shi zu mi hi wa no bo ru"
+      },
+      {
+        "jp": "けどその夜(よ)は违(ちが)ったんだ",
+        "romaji": "ke do so no yo wa chi ga tta nn da"
+      },
+      {
+        "jp": "君(きみ)は仆(ぼく)の手(て)を",
+        "romaji": "ki mi wa bo ku no te wo"
+      },
+      {
+        "jp": "空(そら)へ舞(ま)う",
+        "romaji": "so ra e ma u"
+      },
+      {
+        "jp": "世界(せかい)の彼方(かなた)",
+        "romaji": "se ka i no ka na ta"
+      },
+      {
+        "jp": "暗(やみ)を照(て)らす魁星(かいせい)",
+        "romaji": "ya mi wo te ra su ka i se i"
+      },
+      {
+        "jp": "『君(きみ)と仆(ぼく)もさ、また明日(あす)へ向(む)かっていこう』",
+        "romaji": "ki mi to bo ku mo sa ma ta a su e mu ka tte i ko u"
+      },
+      {
+        "jp": "梦(ゆめ)で终(お)わって",
+        "romaji": "yu me de o wa tte"
+      },
+      {
+        "jp": "しまうのならば",
+        "romaji": "shi ma u no na ra ba"
+      },
+      {
+        "jp": "昨日(きのう)を変(か)えさせて",
+        "romaji": "ki no u wo ka e sa se te"
+      },
+      {
+        "jp": "なんて言(い)わないから",
+        "romaji": "na nn te i wa na i ka ra"
+      },
+      {
+        "jp": "また明日(あす)も君(きみ)とこうやって",
+        "romaji": "ma ta a su mo ki mi to ko u ya tte"
+      },
+      {
+        "jp": "笑(わら)わせて",
+        "romaji": "wa ra wa se te"
+      },
+      {
+        "jp": "あれから世界(せかい)は変(か)わったって",
+        "romaji": "a re ka ra se ka i wa ka wa tta tte"
+      },
+      {
+        "jp": "本気(ほんき)で思(おも)ったって",
+        "romaji": "ho nn ki de o mo tta tte"
+      },
+      {
+        "jp": "期待(きたい)したって変(か)えようとしたって",
+        "romaji": "ki ta i shi ta tte ka e yo u to shi ta tte"
+      },
+      {
+        "jp": "未来(みらい)は残酷(ざんこく)で",
+        "romaji": "mi ra i wa za nn ko ku de"
+      },
+      {
+        "jp": "それてもいつだって君(きみ)と见(み)ていた",
+        "romaji": "so re te mo i tsu da tte ki mi to mi te i ta"
+      },
+      {
+        "jp": "世界(せかい)は本当(ほんと)に绮丽(きれい)だった",
+        "romaji": "se ka i wa ho nn to ni ki re i da tta"
+      },
+      {
+        "jp": "忘(わす)れてないさ",
+        "romaji": "wa su re te na i sa"
+      },
+      {
+        "jp": "思(おも)い出(だ)せるように仕舞（しま）ってるの",
+        "romaji": "o mo i sa se ru yo u ni shi ma tte ru no"
+      },
+      {
+        "jp": "君(きみ)がいてもいなくても翔(と)べるなんて妄想(もうそう)",
+        "romaji": "ki mi ga i te mo i na ku te mo to be ru na nn te mo u so u"
+      },
+      {
+        "jp": "独(ひと)りじゃ歩(ある)くことさえ仆(ぼく)は",
+        "romaji": "hi to ri jya a ru ku ko to sa e bo ku wa"
+      },
+      {
+        "jp": "しないまま蓝色(あいいろ)の风(かぜ)に吐(は)くいた幻想(げんそう)",
+        "romaji": "shi na i ma ma a i i ro no ka ze ni ha ku i ta ge nn so u"
+      },
+      {
+        "jp": "壊(こわ)してくれって愿(ねが)って踠(もが)いたって",
+        "romaji": "ko wa shi te ku re tte ne ga tte mo ga i ta tte"
+      },
+      {
+        "jp": "愿(ねが)ったんなら叶(かな)えてしまえや",
+        "romaji": "ne ga tta nn na ra ka na e te shi ma e ya"
+      },
+      {
+        "jp": "って",
+        "romaji": "tte eh..."
+      },
+      {
+        "jp": "君は",
+        "romaji": "ki mi wa"
+      },
+      {
+        "jp": "言(い)って",
+        "romaji": "i tte"
+      },
+      {
+        "jp": "また明日(あした)の夜(よる)に",
+        "romaji": "ma ta a shi ta no yo ru ni"
+      },
+      {
+        "jp": "逢(あ)いに行(い)こうと思(おも)うが",
+        "romaji": "a i ni i ko u to o mo u ga"
+      },
+      {
+        "jp": "どうかな君(きみ)はいないかな",
+        "romaji": "do u ka na ki mi wa i na i ka na"
+      },
+      {
+        "jp": "それでもいつまでも仆(ぼく)ら一绪(いっしょ)だから",
+        "romaji": "so re de mo i tsu ma de mo bo ku ra i ssho da ka ra"
+      },
+      {
+        "jp": "またね",
+        "romaji": "ma ta ne sky arrow"
+      },
+      {
+        "jp": "笑(わら)ってよう",
+        "romaji": "wa ra tte yo u"
+      },
+      {
+        "jp": "未来(みらい)を少(すこ)しでも君(きみ)といたいから",
+        "romaji": "mi ra i wo su ko shi de mo ki mi to i ta i ka ra"
+      },
+      {
+        "jp": "叫(さけ)ぼう",
+        "romaji": "sa ke bo u"
+      },
+      {
+        "jp": "今日(きょう)の日(ひ)をいつか",
+        "romaji": "kyo u no hi wo i tsu ka"
+      },
+      {
+        "jp": "思(おも)い出(だ)せ",
+        "romaji": "o mo i da se"
+      },
+      {
+        "jp": "未来(みらい)の仆(ぼく)ら",
+        "romaji": "mi ra i no bo ku ra"
+      }
+    ]
+  },
+  {
+    "id": "春夏秋冬",
+    "title": "春夏秋冬",
+    "titleJp": "春夏秋冬",
+    "artist": "ヒルクライム",
+    "lyrics": [
+      {
+        "jp": "どれほど钝（にぶ）さに负（ま）けてたら",
+        "romaji": "do re ho do ni bu sa ni ma ke te ta ra"
+      },
+      {
+        "jp": "涙（なみだ）に気（き）づかないのか",
+        "romaji": "na mi da ni ki zu ka na i no ka"
+      },
+      {
+        "jp": "どれほどプライド伤（きず）つけたら",
+        "romaji": "do re ho do pu ra i do ki zu tsu ke ta ra"
+      },
+      {
+        "jp": "褒（ほ）め言叶（ことば）に动（どう）じないのか",
+        "romaji": "ho me ko to ba ni do u ji na i no ka"
+      },
+      {
+        "jp": "まっすぐなまま",
+        "romaji": "ma ssu gu na ma ma"
+      },
+      {
+        "jp": "进（すす）めてたら",
+        "romaji": "su su me te ta ra"
+      },
+      {
+        "jp": "その手（て）とははぐれていた",
+        "romaji": "so no te to wa ha gu re te i ta"
+      },
+      {
+        "jp": "暖（あたた）かい頬（ほお）",
+        "romaji": "a ta ta ka i ho o"
+      },
+      {
+        "jp": "小（ちい）さなホクロ",
+        "romaji": "chi i sa na ho ku ro"
+      },
+      {
+        "jp": "「もう少（すこ）しこのままでいよう」",
+        "romaji": "「mo u su ko shi ko no ma ma de i yo u」"
+      },
+      {
+        "jp": "眉（まゆ）をひそめて",
+        "romaji": "ma yu wo hi so me te"
+      },
+      {
+        "jp": "期待（きたい）する明日（あした）は",
+        "romaji": "ki ta i su ru a shi ta wa"
+      },
+      {
+        "jp": "仆（ぼく）の居场所（いばしょ）があるのか",
+        "romaji": "bo ku no i ba syu ga a ru no ka"
+      },
+      {
+        "jp": "タバコの烟（けむり）",
+        "romaji": "ta ba ko no ke mu ri"
+      },
+      {
+        "jp": "二人（ふたり）の间（あいだ）に",
+        "romaji": "fu ta ri no a i da ni"
+      },
+      {
+        "jp": "嘘（うそ）も见抜（みぬ）けないほどに",
+        "romaji": "u so mo mi nu ke na i ho do ni"
+      },
+      {
+        "jp": "後（うし）ろから抱（だ）きしめて",
+        "romaji": "u shi ro ka ra da ki shi me te"
+      },
+      {
+        "jp": "「爱（あい）してる」",
+        "romaji": "「a i shi te ru」"
+      },
+      {
+        "jp": "风（かぜ）から君（きみ）を守（まも）った",
+        "romaji": "ka ze ka ra ki mi wo ma mo tta"
+      },
+      {
+        "jp": "记忆（きおく）おぼろげ",
+        "romaji": "ki ko ku o bo ro ge"
+      },
+      {
+        "jp": "髪（かみ）の匂（にお）いだけで",
+        "romaji": "ka mi no ni o i da ke de"
+      },
+      {
+        "jp": "「私も」と返（かえ）してくれると信（しん）じてた",
+        "romaji": "「wa ta shi mo」to ka e shi te ku re ru to shi n ji te ta"
+      },
+      {
+        "jp": "どれほど长（なが）い信号待（しんごうま）つと",
+        "romaji": "do re ho do na ga i shi n go u ma tsu to"
+      },
+      {
+        "jp": "急（いそ）ぎ足（あし）が止（と）まれるの",
+        "romaji": "i so gi a shi ga to ma re ru no"
+      },
+      {
+        "jp": "どれほど暗（くら）い部屋（へや）にいると",
+        "romaji": "do re ho do ku ra i he ya ni i ru to"
+      },
+      {
+        "jp": "なくしたものが光（ひか）るの",
+        "romaji": "na ku shi ta mo no ga hi ka ru no"
+      },
+      {
+        "jp": "まっすぐなまま",
+        "romaji": "ma ssu gu na ma ma"
+      },
+      {
+        "jp": "进（すす）めてたら",
+        "romaji": "su su me te ta ra"
+      },
+      {
+        "jp": "その手（て）とははぐれていた",
+        "romaji": "so no te to wa ha gu re te i ta"
+      },
+      {
+        "jp": "この思（おも）い出（で）を",
+        "romaji": "ko no o mo i de wo"
+      },
+      {
+        "jp": "残（のこ）したいと",
+        "romaji": "no ko shi ta i to"
+      },
+      {
+        "jp": "春夏秋冬（しゅんかしゅうとう）が止（と）まる顷（ころ）",
+        "romaji": "syunn ka syuu tou ga to ma ru ko ro"
+      },
+      {
+        "jp": "眉（まゆ）をひそめて",
+        "romaji": "ma yu wo hi so me te"
+      },
+      {
+        "jp": "期待（きたい）毕手吵する明日（あした）は",
+        "romaji": "hi ta i su ru a shi ta wa"
+      },
+      {
+        "jp": "仆（ぼく）の手侍居场所（いばしょ）があるのか",
+        "romaji": "bo ku no i ha syo ga a ru no ka"
+      },
+      {
+        "jp": "タバコの烟（けむり）",
+        "romaji": "ta ba ko no ke mu ri"
+      },
+      {
+        "jp": "二人（ふたり）の间（あいだ）に",
+        "romaji": "fu ta ri no a i da ni"
+      },
+      {
+        "jp": "嘘（うそ）も见抜（みぬ）けないほどに",
+        "romaji": "u so mo mi nu ke na i ho do ni"
+      },
+      {
+        "jp": "後（うし）ろから抱（だ）きしめて",
+        "romaji": "u shi ro ka ra da ki shi me te"
+      },
+      {
+        "jp": "「爱（あい）してる」",
+        "romaji": "「a i shi te ru」"
+      },
+      {
+        "jp": "风（かぜ）から君（きみ）を守（まも）った",
+        "romaji": "ka ze ka ra ki mi wo ma mo tta"
+      },
+      {
+        "jp": "记忆（きおく）おぼろ薯袜げ",
+        "romaji": "ki o ku o bo ro ge"
+      },
+      {
+        "jp": "息（いき）する声（こえ）だけで",
+        "romaji": "i ki su ru ko e da ke de"
+      },
+      {
+        "jp": "「私も」と返（かえ）してくれると信（しん）じてた",
+        "romaji": "「wa ta shi mo」to ka e shi te ku re ru to shi n ji te ta"
+      },
+      {
+        "jp": "もう一度（いちど）あの",
+        "romaji": "mo u i chi do a no"
+      },
+      {
+        "jp": "目（め）が合（あ）う日（ひ）戻（もど）れたら",
+        "romaji": "me ga a u hi mo do re ta ra"
+      },
+      {
+        "jp": "笑（わら）ってくれたのだろうか",
+        "romaji": "wa ra tte ku re ta no da ro u ka"
+      },
+      {
+        "jp": "梦（ゆめ）も现実（げんじつ）も",
+        "romaji": "yu me mo ge n ji tsu mo"
+      },
+      {
+        "jp": "分（わ）からないまま",
+        "romaji": "wa ka ra na i ma ma"
+      },
+      {
+        "jp": "また一人（ひとり）あの木（き）の下（した）",
+        "romaji": "ma ta hi to ri a no ki no shi ta"
+      },
+      {
+        "jp": "後（うし）ろで谁（だれ）かそっとした歩幅（ほはば）",
+        "romaji": "u shi ro de da re ka so tto shi ta ho ha ba"
+      },
+      {
+        "jp": "思（おも）い出（だ）せないやさしさ",
+        "romaji": "o mo i de se na i ya sa shi sa"
+      },
+      {
+        "jp": "焦（あせ）ることなく",
+        "romaji": "a se ru ko to na ku"
+      },
+      {
+        "jp": "微笑（ほほえ）んでくれる",
+        "romaji": "ho ho e n de ku re ru"
+      },
+      {
+        "jp": "「帰（かえ）ろう」と",
+        "romaji": "「ka e ro u」to"
+      },
+      {
+        "jp": "なぜかこの手（て）を",
+        "romaji": "na ze ka ko no te wo"
+      },
+      {
+        "jp": "握（にぎ）りしめた",
+        "romaji": "ni gi ri shi me ta"
+      },
+      {
+        "jp": "目（め）の下（した）の",
+        "romaji": "me no shi ta no"
+      },
+      {
+        "jp": "小（ちい）さなホクロはどこかで…",
+        "romaji": "chi i sa na ho ke ro wa do ko ka de"
+      }
+    ]
+  },
+  {
+    "id": "曾经我也想过一了百了",
+    "title": "曾经我也想过一了百了",
+    "titleJp": "僕が死のうと思ったのは",
+    "artist": "中島美嘉",
+    "lyrics": [
+      {
+        "jp": "",
+        "romaji": "bo ku ga shi no u to omo tta no ha",
+        "zh": "曾经我也想过一了百了"
+      },
+      {
+        "jp": "",
+        "romaji": "u mi ne ko ga sa nn ba shi de na i ta ka ra",
+        "zh": "因为有海猫在码头悲鸣"
+      },
+      {
+        "jp": "",
+        "romaji": "na mi no ma ni ma ni u ka nn de ki e ru",
+        "zh": "随着浪花起伏消没"
+      },
+      {
+        "jp": "",
+        "romaji": "ka ko mo tu i bann de tonn de i ke",
+        "zh": "叼啄着往昔飞离不见"
+      },
+      {
+        "jp": "",
+        "romaji": "bo ku ga shi nou to o mo tta no ha",
+        "zh": "曾经我也想过一了百了"
+      },
+      {
+        "jp": "",
+        "romaji": "ta nn jyou bi ni a nn zu no ha na ga sa i ta ka ra",
+        "zh": "因为生日那天杏花开放"
+      },
+      {
+        "jp": "",
+        "romaji": "so no ko mo re bi de u ta ta ne shi ta ra",
+        "zh": "若是在那洒下的阳光里打盹"
+      },
+      {
+        "jp": "",
+        "romaji": "mu shi no shi ga i to tu chi ni na re ru ka na",
+        "zh": "能否与虫之死骸一同化为尘土呢"
+      },
+      {
+        "jp": "",
+        "romaji": "ha kka a me gyo kou no to u da i",
+        "zh": "薄荷糖 渔港的灯塔"
+      },
+      {
+        "jp": "",
+        "romaji": "sa bi ta a a chi kyou su teta shi tenn sya",
+        "zh": "生锈的拱桥 丢弃的自行车"
+      },
+      {
+        "jp": "",
+        "romaji": "mo ku zo u no e ki no su to u bu no ma e de",
+        "zh": "木造车站的暖炉前"
+      },
+      {
+        "jp": "",
+        "romaji": "do ko ni mo ta bi da te n a i ko ko ro",
+        "zh": "无处可去的心灵"
+      },
+      {
+        "jp": "",
+        "romaji": "kyo u ha ma ru de ko no u mi ta i da",
+        "zh": "今天与昨天如此相像"
+      },
+      {
+        "jp": "",
+        "romaji": "a su wo ka e ru na ra",
+        "zh": "想改变明天"
+      },
+      {
+        "jp": "",
+        "romaji": "kyo wo ka e na kya",
+        "zh": "须改变今天"
+      },
+      {
+        "jp": "",
+        "romaji": "wa ka tte ru wa ka tte ru ke re do",
+        "zh": "我知道  我知道    但是"
+      },
+      {
+        "jp": "",
+        "romaji": "bo ku ga shi no u to o mo tta no ha",
+        "zh": "曾经我也想过一了百了"
+      },
+      {
+        "jp": "",
+        "romaji": "ko ko ro ga ka ra ppo ni na tta ka ra",
+        "zh": "因为心中已空无一物"
+      },
+      {
+        "jp": "",
+        "romaji": "mi ta sa re na i to na i te i ru no ha",
+        "zh": "感到空虚而哭泣"
+      },
+      {
+        "jp": "",
+        "romaji": "ki tto mi ta sa re ta i to ne ga u ka ra",
+        "zh": "一定是渴望得到充实"
+      },
+      {
+        "jp": "",
+        "romaji": "bo ku ga shi no u to o mo tta no ha",
+        "zh": "曾经我也想过一了百了"
+      },
+      {
+        "jp": "",
+        "romaji": "ku tsu hi mo ga to ke ta ka ra",
+        "zh": "因为鞋带松开了"
+      },
+      {
+        "jp": "",
+        "romaji": "mu su bi na o su no ha ni ga te nann da yo",
+        "zh": "不擅长重新系起"
+      },
+      {
+        "jp": "",
+        "romaji": "hi to to no tsu na ga ri mo ma ta si ka ri",
+        "zh": "与人的牵绊亦是如此"
+      },
+      {
+        "jp": "",
+        "romaji": "bo ku ga shi no u to o mo tta no ha",
+        "zh": "曾经我也想过一了百了"
+      },
+      {
+        "jp": "",
+        "romaji": "sh ou ne nn ga bo ku wo mi tsu me te i ta",
+        "zh": "因为少年深情凝视着我"
+      },
+      {
+        "jp": "",
+        "romaji": "be ddo no ue de to ge za si te ru",
+        "zh": "抱膝跪在床上"
+      },
+      {
+        "jp": "",
+        "romaji": "a no hi no bo ku ni go me nn na sa i to",
+        "zh": "向那天的我说抱歉"
+      },
+      {
+        "jp": "",
+        "romaji": "pa so ko nn no u su a ka ri",
+        "zh": "屏幕的微光"
+      },
+      {
+        "jp": "",
+        "romaji": "jou ka i no he ya no se i ka tsu o nn",
+        "zh": "楼上的噪音"
+      },
+      {
+        "jp": "",
+        "romaji": "i nn ta -f o nn no cha i mu no o to",
+        "zh": "电话的铃声"
+      },
+      {
+        "jp": "",
+        "romaji": "mi mi wo hu sa gu to ri ka go no sh ou ne nn",
+        "zh": "紧塞住双耳 那笼中的少年"
+      },
+      {
+        "jp": "",
+        "romaji": "mi e na i te ki to ta ta ka tte ru",
+        "zh": "与看不见的敌人战斗着"
+      },
+      {
+        "jp": "",
+        "romaji": "ro ku jyou hi to ma no do nn ki ho-te",
+        "zh": "六畳一间的堂吉诃德"
+      },
+      {
+        "jp": "",
+        "romaji": "go - ru ha do u se mi ni ku i mo no sa",
+        "zh": "反正目的也是一样丑陋"
+      },
+      {
+        "jp": "",
+        "romaji": "bo ku ga si no u to o mo tta no ha",
+        "zh": "曾经我也想过一了百了"
+      },
+      {
+        "jp": "",
+        "romaji": "tsu me ta i hi to to i wa re ta ka ra",
+        "zh": "因为被人说是冷血"
+      },
+      {
+        "jp": "",
+        "romaji": "a i sa re ta i to na i te i ru no ha",
+        "zh": "想要被爱而哭泣"
+      },
+      {
+        "jp": "",
+        "romaji": "hi to no nu ku mo ri wo shi tte si ma tta ka ra",
+        "zh": "是因为尝到了人的温暖"
+      },
+      {
+        "jp": "",
+        "romaji": "bo ku ga si no u to o mo tta no ha",
+        "zh": "曾经我也想过一了百了"
+      },
+      {
+        "jp": "",
+        "romaji": "a na ta ga ki re i ni wa ra u ka ra",
+        "zh": "因为你灿烂的笑容"
+      },
+      {
+        "jp": "",
+        "romaji": "si nu ko to ba ka ri kann ga e te si ma u no ha",
+        "zh": "尽考虑着死的事"
+      },
+      {
+        "jp": "",
+        "romaji": "ki tto i ki ru ko to ni ma ji me su gi ru ka ra",
+        "zh": "一定是因为太过认真地活"
+      },
+      {
+        "jp": "",
+        "romaji": "bo ku ga si no u to o mo tta no ha",
+        "zh": "曾经我也想过一了百了"
+      },
+      {
+        "jp": "",
+        "romaji": "ma da a na ta ni de a tte na ka tta ka ra",
+        "zh": "因为还未与你相遇"
+      },
+      {
+        "jp": "",
+        "romaji": "a na ta no you na hi to ga u ma re ta",
+        "zh": "因为有像你这样的人出生"
+      },
+      {
+        "jp": "",
+        "romaji": "se ka i wo su ko si su ki ni na tta yo",
+        "zh": "我对世界稍微有了好感"
+      },
+      {
+        "jp": "",
+        "romaji": "a na ta no yo u na hi to ga i ki te ru",
+        "zh": "因为有像你这样的人活在这个世上"
+      },
+      {
+        "jp": "世界（せかい）に少（すこ）し期待（きたい）するよ",
+        "romaji": "se ka i ni su ko si ki ta i su ru yo"
+      }
+    ]
+  },
+  {
+    "id": "最后一次亲吻你",
+    "title": "最后一次亲吻你",
+    "titleJp": "One Last Kiss",
+    "artist": "宇多田ヒカル",
+    "lyrics": [
+      {
+        "jp": "消（き）えそうな星（ほし）を眺（なが）めて",
+        "romaji": "ki e so u na ho shi wo na ga me te",
+        "zh": "眺望稍纵即逝的星空"
+      },
+      {
+        "jp": "憂（うれ)いを夜空（よぞら）に吐（は）き出（た）す",
+        "romaji": "u re i wo yo zo ra ni ha ki ta su",
+        "zh": "向着夜空倾吐一切烦忧"
+      },
+      {
+        "jp": "落（お）ちる一筋（ひとすじ）の願（ねが）いは",
+        "romaji": "o chi ru hi to su ji no ne ga i wha",
+        "zh": "自天陨落的一束心愿"
+      },
+      {
+        "jp": "淡（あわ）く溶（と）けて消（き）えた",
+        "romaji": "a wa ku to ke te ki e ta",
+        "zh": "就那么淡淡地消融而逝"
+      },
+      {
+        "jp": "君（きみ）のいつもの口（くち）癖（くせ）も",
+        "romaji": "ki mi no i tsu mo no ku chi ku se mo",
+        "zh": "你经常说的那句口头禅"
+      },
+      {
+        "jp": "負（ま）けず嫌（きら）いな性格（せいかく）も",
+        "romaji": "ma ke zu ki ra i na se i ka ku mo",
+        "zh": "你那不服输的性格"
+      },
+      {
+        "jp": "隣（となり）でわらうその颜（かお）も",
+        "romaji": "to na ri de wa ra u so no ka o mo",
+        "zh": "还有你在我身旁微笑的样子"
+      },
+      {
+        "jp": "大事（だいじ）にしてたのに",
+        "romaji": "da i ji ni shi te ta no ni",
+        "zh": "一直以来我是那么的珍惜"
+      },
+      {
+        "jp": "気付（きず）けば何故（なぜ）か言（い）えなくなった",
+        "romaji": "ki zu ke ba na ze ka i e na ku na tta",
+        "zh": "却发现 我不知为何 竟再也说不出"
+      },
+      {
+        "jp": "君（きみ）に向（む）けた、「好（す）き」という言葉（ことば）",
+        "romaji": "ki mi ni mu ke ta su ki to i u ko to ba",
+        "zh": "对你说出喜欢两个字"
+      },
+      {
+        "jp": "心（こころ）の何処（どこ）かでは",
+        "romaji": "ko ko ro no do ko ka de wha",
+        "zh": "也许在心灵的某个角落"
+      },
+      {
+        "jp": "諦（あきら）めてたのかな",
+        "romaji": "a ki ra me te ta no ka na",
+        "zh": "早已选择放手了吧"
+      },
+      {
+        "jp": "戻（もど）れないと知（し）ってても",
+        "romaji": "mo do re na i to shi tte te mo",
+        "zh": "明知道我们再也回不去了"
+      },
+      {
+        "jp": "二人（ふたり）の過去（かこ）を全（すべ）て壊（こわ）して",
+        "romaji": "fu ta ri no ka ko wo su be te ko wa shi te",
+        "zh": "就这样将我们的过去摧毁殆尽"
+      },
+      {
+        "jp": "もう僕（ぼく）なんか嫌（きら）いになってよ",
+        "romaji": "mo u bo ku na n ka ki ra i ni na yo",
+        "zh": "你啊 就快点讨厌我吧"
+      },
+      {
+        "jp": "そしたら君（きみ）の事（こと）を今（いま）すぐにでも",
+        "romaji": "so shi ta ra ki mo no ko to wo i ma su gu ni de mo",
+        "zh": "明明这样子我就能"
+      },
+      {
+        "jp": "忘（わす）れてしまえるのに",
+        "romaji": "wa su re te shi ma e ru no ni",
+        "zh": "很快把你忘记了啊"
+      },
+      {
+        "jp": "僕（ぼく）の最高（さいこう）の思（おも）い出（で）を",
+        "romaji": "bo ku no sa i ko u no o mo i de wo",
+        "zh": "我人生中最美好的回忆"
+      },
+      {
+        "jp": "胸（むね）の中（なか）にまた隠（かく）して",
+        "romaji": "mu ne no na ka ni ma ta ka ku shi te",
+        "zh": "却还埋藏在心底"
+      },
+      {
+        "jp": "先（さき）の见（み）えないこの道（みち）を",
+        "romaji": "sa ki no mi e na i ko no mi chi wo",
+        "zh": "在这条望不见尽头的路上"
+      },
+      {
+        "jp": "今日（きょう）も一人（ひとり）歩（ある）く",
+        "romaji": "kyo u mo hi to ri a ru ku",
+        "zh": "今天我也一个人漫步在"
+      },
+      {
+        "jp": "いつしか何（なに）も信（しん）じられない",
+        "romaji": "i tsu shi ka na ni mo shi n ji ra re na i",
+        "zh": "从何时起什么都不敢再相信"
+      },
+      {
+        "jp": "そんな自分（じぶん）がこの場所（ばしょ）にいた",
+        "romaji": "so n na ji bu n ga ko no ba syo ni i ta",
+        "zh": "那样的自己此刻就身在此处"
+      },
+      {
+        "jp": "離（はな）れたくないけど",
+        "romaji": "ha na re ta ku na i ke do",
+        "zh": "虽然并不想与你分离"
+      },
+      {
+        "jp": "僕（ぼく）はもう行（い）かなきゃ",
+        "romaji": "bo ku wha mo u i ka na kya",
+        "zh": "可我现在必须走了"
+      },
+      {
+        "jp": "帰（かえ）れないと知（し）ってても",
+        "romaji": "ka e re na i to shi tte te mo",
+        "zh": "明知这是一条不归路"
+      },
+      {
+        "jp": "愛（あい）した日々（ひび）もその温（ぬく）もりも",
+        "romaji": "a i shi ta hi bi mo so no nu ku mo ri mo",
+        "zh": "相爱的时光昔日的温暖"
+      },
+      {
+        "jp": "抱（だき）しめ合（あ）って过（す）ごした夜（よる）も",
+        "romaji": "da ki shi me a tte su go shi ta yo ru mo",
+        "zh": "相拥而处的夜晚"
+      },
+      {
+        "jp": "嘘（うそ）じゃないと自分（じぶん）に",
+        "romaji": "u so jya na i to ji bu n ni",
+        "zh": "全部都不会是谎言"
+      },
+      {
+        "jp": "言（い）い聞（き）かせて",
+        "romaji": "i i ki ka se te",
+        "zh": "一遍遍地自我安慰"
+      },
+      {
+        "jp": "逃（に）げていたいだけなんだよ",
+        "romaji": "ni ge te i ta i da ke na n da yo",
+        "zh": "其实不过是想逃避罢了"
+      },
+      {
+        "jp": "二人（ふたり）の過去（かこ）を全（すべ）て壊（こわ）して",
+        "romaji": "hu ta ri no ka ko wo su be te ko wa shi te",
+        "zh": "就这样将我们的过去摧毁殆尽"
+      },
+      {
+        "jp": "もう僕（ぼく）なんか嫌（きら）いになってよ",
+        "romaji": "mo u bo ku na n ka ki ra i ni na tte yo",
+        "zh": "你啊 就快点讨厌我吧"
+      },
+      {
+        "jp": "そしたら君（きみ）の事（こと）を今（いま）すぐにでも",
+        "romaji": "so shi ta ra ki mi no ko to wo i ma su gu ni de mo",
+        "zh": "明明这样子我就能"
+      },
+      {
+        "jp": "忘（わす）れてしまえるのに",
+        "romaji": "wa su re te shi ma e ru no ni",
+        "zh": "很快把你忘记了啊"
+      },
+      {
+        "jp": "君（きみ）に最後（さいご）の口（くち）づけを",
+        "romaji": "ki mi ni sa i go no ku chi zu ke wo",
+        "zh": "最后一次亲吻你"
+      },
+      {
+        "jp": "今（いま）まで本当（ほんとう）にありがとう",
+        "romaji": "i ma ma de ho n to u ni a ri ga to u",
+        "zh": "迄今为止谢谢你的陪伴"
+      },
+      {
+        "jp": "重（かさ）なる二人（ふたり）の想（おも）いは",
+        "romaji": "ka sa na ru hu ta ri no o mo i wha",
+        "zh": "你我重重叠叠的爱恋"
+      },
+      {
+        "jp": "涙（なみだ）の味（あじ）がした",
+        "romaji": "na mi da no a ji ga shi ta",
+        "zh": "带着泪水的苦涩味道"
+      }
+    ]
+  },
+  {
+    "id": "未闻花名",
+    "title": "未闻花名",
+    "titleJp": "secret base 〜君がくれたもの〜",
+    "artist": "ZONE",
+    "lyrics": [
+      {
+        "jp": "君（きみ）と夏（なつ）の终（お）わり将来（しょうらい）の梦（ゆめ）",
+        "romaji": "ki mi to na tsu no o wa ri sho u ra i no yu me",
+        "zh": "无论与你共度的夏天 将来的梦"
+      },
+      {
+        "jp": "大（おお）きな希望（きぼう） 忘（わす）れない",
+        "romaji": "o o ki na ki bo u wa su re na i",
+        "zh": "还是庞大的希望 我决不忘怀"
+      },
+      {
+        "jp": "10年后（じゅうねんご）の8月（はちげつ） また出会（であ）えるのを 信（しん）じて",
+        "romaji": "ju u ne n go no ha chi ge tsu ma ta de a e ru no wo shi n ji te",
+        "zh": "相信10年后的8月 我们还能够遇上彼此"
+      },
+      {
+        "jp": "最高（さいこう）の思（おも）い出（で）を…",
+        "romaji": "sa i ko u no o mo i de wo",
+        "zh": "怀着最美的回忆…"
+      },
+      {
+        "jp": "出会（であ）いは ふっとした 瞬间（しゅんかん）",
+        "romaji": "de a i wa fu tto shi ta shu n ka n",
+        "zh": "邂逅是如此不经意的瞬间"
+      },
+      {
+        "jp": "帰（かえ）り道（みち）の交差点（こうさてん）で",
+        "romaji": "ka e ri mi chi no ko u sa te n de",
+        "zh": "在回家的十字路口"
+      },
+      {
+        "jp": "声（こえ）をかけてくれたね “一绪（いっしょ）に帰（かえ）ろう”",
+        "romaji": "ko e wo ka ke te ku re ta ne i ssho ni ka e ro u",
+        "zh": "你突然对我说 「一起回家吧」"
+      },
+      {
+        "jp": "仆（ぼく）は 照（て）れくさそうに",
+        "romaji": "bo ku wa te re ku sa so u ni",
+        "zh": "我当时脸红心跳"
+      },
+      {
+        "jp": "カバンで颜（かお）を隠（かく）しながら",
+        "romaji": "ka ba n de ka o wo ka ku shi na ga ra",
+        "zh": "不由得用书包遮住脸蛋"
+      },
+      {
+        "jp": "本当（ほんとう）は とても とても 嬉（うれ）しかったよ",
+        "romaji": "ho n to u wa to te mo to te mo u re shi ka tta yo",
+        "zh": "其实心里是多么多么地喜出望外"
+      },
+      {
+        "jp": "あぁ 花火（はなび）が夜空（よぞら）",
+        "romaji": "aa ha na bi ga yo zo ra",
+        "zh": "啊 朵朵烟花在夜空里"
+      },
+      {
+        "jp": "きれいに咲（さ）いて ちょっとセツナク",
+        "romaji": "ki re i ni sa i te cho tto se tsu na ku",
+        "zh": "绚丽绽放 心头些许感伤"
+      },
+      {
+        "jp": "あぁ 风（かぜ）が时间（じかん）とともに 流（なが）れる",
+        "romaji": "aa ka ze ga ji ka n to to mo ni na ga re ru",
+        "zh": "啊 微风随着时间一同流逝"
+      },
+      {
+        "jp": "嬉（うれ）しくって 楽（たの）しくって",
+        "romaji": "u re shi ku tte ta no shi ku tte",
+        "zh": "喜悦过 欢乐过"
+      },
+      {
+        "jp": "冒険（ぼうけん）も いろいろしたね",
+        "romaji": "bo u ke n mo i ro i ro shi ta ne",
+        "zh": "也曾多次冒险过呢"
+      },
+      {
+        "jp": "二人（ふたり）の 秘密（ひみつ）の 基地（きち）の中（なか）",
+        "romaji": "fu ta ri no hi mi tsu no ki chi no na ka",
+        "zh": "在两人的秘密基地里"
+      },
+      {
+        "jp": "君（きみ）と夏（なつ）の终（お）わり 将来（しょうらい）の梦（ゆめ）",
+        "romaji": "ki mi to na tsu no o wa ri sho u ra i no yu me",
+        "zh": "无论与你共度的夏天 将来的梦"
+      },
+      {
+        "jp": "大（おお）きな希望（きぼう） 忘（わす）れない",
+        "romaji": "o o ki na ki bo u wa su re na i",
+        "zh": "还是庞大的希望 我决不忘怀"
+      },
+      {
+        "jp": "10年后（じゅうねんご）の8月（はちげつ） また出会（であ）えるのを 信（しん）じて",
+        "romaji": "ju u ne n go no ha chi ge tsu ma ta de a e ru no wo shi n ji te",
+        "zh": "相信10年后的8月 我们还能够遇上彼此"
+      },
+      {
+        "jp": "君（きみ）が最后（さいご）まで 心（こころ）から",
+        "romaji": "ki mi ga sa i go ma de ko ko ro ka ra",
+        "zh": "你自始至终 都在心里"
+      },
+      {
+        "jp": "\"ありがとう\"叫（さけ）んでたこと 知（し）ってたよ",
+        "romaji": "a ri ga to u sa ke n de ta ko to shi tte ta yo",
+        "zh": "呐喊着「谢谢」 我比谁都清楚"
+      },
+      {
+        "jp": "涙（なみだ）をこらえて 笑颜（えがお）でさようなら",
+        "romaji": "na mi da wo ko ra e te e ga o de sa yo u na ra",
+        "zh": "强忍泪水 笑着说再见"
+      },
+      {
+        "jp": "せつないよね",
+        "romaji": "se tsu na i yo ne",
+        "zh": "肯定很难受吧"
+      },
+      {
+        "jp": "最高（さいこう）の思（おも）い出（で）を…",
+        "romaji": "sa i ko u no o moi de wo",
+        "zh": "怀着最美的回忆…"
+      },
+      {
+        "jp": "あぁ 夏休（なつやす）みも あと少（すこ）しで",
+        "romaji": "aa na tsu ya su mi mo a to su ko shi de",
+        "zh": "啊 暑假再过一会便要"
+      },
+      {
+        "jp": "终（お）わっちゃうから",
+        "romaji": "o wa ccha u ka ra",
+        "zh": "落下帷幕"
+      },
+      {
+        "jp": "あぁ 太阳（たいよう）と月（つき） 仲良（なかよ）くして",
+        "romaji": "aa ta i yo u to tsu ki na ka yo ku shi te",
+        "zh": "啊 太阳和月亮请和好如初啊"
+      },
+      {
+        "jp": "悲（かな）しくって 寂（さみ）しくって",
+        "romaji": "ka na shi ku tte sa mi shi ku tte",
+        "zh": "悲伤难过 寂寞难堪"
+      },
+      {
+        "jp": "喧哗（けんか）も いろいろしたね",
+        "romaji": "ke n ka mo i ro i ro shi ta ne",
+        "zh": "吵架也曾是家常便饭呢"
+      },
+      {
+        "jp": "二人（ふたり）の 秘密（ひみつ）の 基地（きち）の中（なか）",
+        "romaji": "fu ta ri no hi mi tsu no ki chi no na ka",
+        "zh": "在两人的秘密基地里"
+      },
+      {
+        "jp": "君（きみ）が最后（さいご）まで 心（こころ）から",
+        "romaji": "ki mi ga sa i go ma de ko ko ro ka ra",
+        "zh": "你自始至终 都在心里"
+      },
+      {
+        "jp": "“ありがとう” 叫（さけ）んでたこと 知（し）ってたよ",
+        "romaji": "a ri ga to u sa ke n de ta ko to shi tte ta yo",
+        "zh": "呐喊着「谢谢」 我比谁都清楚"
+      },
+      {
+        "jp": "涙（なみ）をこらえて 笑颜（えがお）でさようなら",
+        "romaji": "na mi da wo ko ra e te e ga o de sa yo u na ra",
+        "zh": "强忍泪水 笑着说再见"
+      },
+      {
+        "jp": "せつないよね",
+        "romaji": "se tsu na i yo ne",
+        "zh": "肯定很难受吧"
+      },
+      {
+        "jp": "最高（さいこう）の思（おも）い出（で）を…",
+        "romaji": "sa i ko u no o mo i de wo",
+        "zh": "怀着最美的回忆…"
+      },
+      {
+        "jp": "突然（とつぜん）の 転校（てんこう）で どうしようもなく",
+        "romaji": "to tsu zen no te n ko u de do u shi yo u mo na ku",
+        "zh": "突如其来的转学 彼此都无可奈何"
+      },
+      {
+        "jp": "手纸（てがみ） 书（か）くよ 电话（でんわ）もするよ",
+        "romaji": "te ga mi ka ku yo de n wa mo su ru yo",
+        "zh": "我会写信 也会给你打电话"
+      },
+      {
+        "jp": "忘（わす）れないでね 仆（ぼく）のことを",
+        "romaji": "wa su re na i de ne bo ku no ko to wo",
+        "zh": "所以千万不要忘记我"
+      },
+      {
+        "jp": "いつまでも 二人（ふたり）の 基地（きち）の中（なか）",
+        "romaji": "i tsu ma de mo fu ta ri no ki chi no na ka",
+        "zh": "我永远都在两人的基地之中"
+      },
+      {
+        "jp": "君（きみ）と夏（なつ）の终（お）わり ずっと话（はな）して",
+        "romaji": "ki mi to na tsu no o wa ri zu tto ha na shi te",
+        "zh": "与你共度的夏末 无话不谈"
+      },
+      {
+        "jp": "夕日（ゆうひ）を见（み）てから星（ほし）を眺（なが）め",
+        "romaji": "yu u hi wo mi te ka ra ho shi wo na ga me",
+        "zh": "从观日落到望星辰"
+      },
+      {
+        "jp": "君（きみ）の頬（ほほ）を 流（なが）れた涙（なみだ）は ずっと忘（わす）れない",
+        "romaji": "ki mi no ho ho wo na ga re ta na mi da wa zu tto wa su re na i",
+        "zh": "划过你双颊的泪珠 我永不忘怀"
+      },
+      {
+        "jp": "君（きみ）が最后（さいご）まで",
+        "romaji": "ki mi ga sa i go ma de",
+        "zh": "你自始至终"
+      },
+      {
+        "jp": "大（おお）きく手（て）を振（ふる）ってくれたこと",
+        "romaji": "o o ki ku te wo fu ru tte ku re ta ko to",
+        "zh": "都不停向我挥手"
+      },
+      {
+        "jp": "きっと忘（わす）れない",
+        "romaji": "ki tto wa su re na i",
+        "zh": "我一定不会忘记"
+      },
+      {
+        "jp": "だから こうして 梦（ゆめ）の中（なか）で",
+        "romaji": "da ka ra ko u shi te yu me no na ka de",
+        "zh": "所以 愿一如既往 留在我梦中"
+      },
+      {
+        "jp": "ずっと永远（えいえん）に…",
+        "romaji": "zu tto e i e n ni",
+        "zh": "一直到永远…"
+      },
+      {
+        "jp": "君（きみ）と夏（なつ）の终（お）わり 将来（しょうらい）の梦（ゆめ）",
+        "romaji": "ki mi to na tsu no o wa ri sho u ra i no yu me",
+        "zh": "无论与你共度的夏天 将来的梦"
+      },
+      {
+        "jp": "大（おお）きな希望（きぼう） 忘（わす）れない",
+        "romaji": "o o ki na ki bo u wa su re na i",
+        "zh": "还是庞大的希望 我决不忘怀"
+      },
+      {
+        "jp": "10年后（じゅうねんご）の8月（はちげつ） また出会（であ）えるのを 信（しん）じて",
+        "romaji": "ju u ne n go no ha chi ge tsu ma ta de a e ru no wo shi n ji te",
+        "zh": "相信10年后的8月 我们还能够遇上彼此"
+      },
+      {
+        "jp": "君（きみ）が最后（さいご）まで 心（こころ）から",
+        "romaji": "ki mi ga sa i go ma de ko ko ro ka ra",
+        "zh": "你自始至终 都在心里"
+      },
+      {
+        "jp": "\"ありがとう\"叫（さけ）んでたこと 知（し）ってたよ",
+        "romaji": "a ri ga to u sa e n de ta ko to shi tte ta yo",
+        "zh": "呐喊着「谢谢」 我比谁都清楚"
+      },
+      {
+        "jp": "涙（なみだ）をこらえて 笑颜（えがお）でさようなら",
+        "romaji": "na mi da wo ko ra e te e ga o de sa yo u na ra",
+        "zh": "强忍泪水 笑着说再见"
+      },
+      {
+        "jp": "せつないよね",
+        "romaji": "se tsu na i yo ne",
+        "zh": "肯定很难受吧"
+      },
+      {
+        "jp": "最高（さいこう）の思（おも）い出（で）を…",
+        "romaji": "sa i ko u no o moi de wo",
+        "zh": "怀着最美的回忆…"
+      },
+      {
+        "jp": "最高（さいこう）の思（おも）い出（で）を",
+        "romaji": "sa i ko u no o mo i de wo",
+        "zh": "怀着最美的回忆…"
+      }
+    ]
+  },
+  {
+    "id": "留在我身边",
+    "title": "留在我身边",
+    "titleJp": "そばにいるね",
+    "artist": "青山テルマ feat. SoulJa",
+    "lyrics": [
+      {
+        "jp": "あなたのこと 私は今でも思い続けているよ",
+        "romaji": "a na ta no ko to wa ta shi wa i ma de mo o mo i tsu dzu ke te i ru yo",
+        "zh": "我到了现在仍是思念着你啊"
+      },
+      {
+        "jp": "いくら时流れて行こうと I'm by your side baby いつでも",
+        "romaji": "i ku ra to ki na ga re te yu ko u to im by your side baby i tsu de mo",
+        "zh": "纵使多少时光流逝 我何猛粗老时都会在你身旁"
+      },
+      {
+        "jp": "So. どんなに离れていようと",
+        "romaji": "so. do n na ni ha na re te i yo u to",
+        "zh": "所以即使相距多远"
+      },
+      {
+        "jp": "心の中ではいつでも一绪にいるけど 寂しいんだよ",
+        "romaji": "ko ko ro no na ka de wa i tsu de mo i ssho ni i ru ke do sa bi shi i n da yo",
+        "zh": "虽然心里何时都在一起但仍会寂寞啊"
+      },
+      {
+        "jp": "So baby please ただ hurry back home",
+        "romaji": "so baby please ta da hurry back home",
+        "zh": "那么亲爱的 只是请你快点回来"
+      },
+      {
+        "jp": "Baby boy あたしはここにいるよ どこもいかずに待ってるよ",
+        "romaji": "baby boy a ta shi wa ko ko ni i ru yo do ko mo i ka zu ni ma tte ru yo",
+        "zh": "亲爱的，我在这里啊哪里都不去在等你啊"
+      },
+      {
+        "jp": "You konw dat I love you だからこそ 心配しなくていいんだよ",
+        "romaji": "you konw dat i love you da ka ra ko so shi n pa i shi na ku te i i n da yo",
+        "zh": "你知道我爱你因此别再担心啊"
+      },
+      {
+        "jp": "どんなに远くにいても変わらないよ この心",
+        "romaji": "do n na ni to o ku ni i te mo ka wa ra na i yo ko no ko ko ro",
+        "zh": "即使相距再远也不会变的这颗心"
+      },
+      {
+        "jp": "言いたい事わかるでしょ？",
+        "romaji": "i i ta i ko to wa ka ru de sho ?",
+        "zh": "应该知道我想说什么吧"
+      },
+      {
+        "jp": "あなたのこと待ってるよ",
+        "romaji": "a na ta no ko to ma tte ru yo",
+        "zh": "在等着你回来"
+      },
+      {
+        "jp": "んなことよりお前の方は元気か？ちゃんと饭食ってるか？",
+        "romaji": "n na ko to yo ri o ma e no ho u wa ge n ki ka ? cha n to me shi ku tte ru ka ?",
+        "zh": "相比我你还好吗？有好好地吃饭吗？"
+      },
+      {
+        "jp": "ちくしょう、やっぱ言えねぇや",
+        "romaji": "chi k sho u, ya ppa i e ne e ya",
+        "zh": "可恶，还是说不出口"
+      },
+      {
+        "jp": "また今度送るよ 俺からのLetter",
+        "romaji": "ma ta ko n do o ku ru yo o re ka ra no letter",
+        "zh": "下次会发送的啊由我这里来的信"
+      },
+      {
+        "jp": "过ぎ去った时は戻せないけれど 近くにいてくれた君が恋しいの",
+        "romaji": "su gi sa tta to ki wa mo do se na i ke re do chi ka ku ni i te ku re ta ki mi ga ko i shi i no",
+        "zh": "虽然过去的不会回来 还是跟逐步接近的你恋起来"
+      },
+      {
+        "jp": "だけど あなたとの距离が远くなるほどに いそがしくみせていた",
+        "romaji": "da ke do a na ta to no kyo ri ga to o ku na ru ho do ni i so ga shi ku mi se te i ta",
+        "zh": "但是因为繁忙 而与你渐远"
+      },
+      {
+        "jp": "あたし逃げてたの",
+        "romaji": "a ta shi ni ge te ta no",
+        "zh": "我想过逃避"
+      },
+      {
+        "jp": "だけど 目を闭じる时 眠ろうとする时 逃げ切れないよ あなたの事",
+        "romaji": "da ke do me wo to ji ru to ki ne mu ro u to su ru to ki ni ge ki re na i yo a na ta no ko to",
+        "zh": "但是每次闭眼 每次入睡 都不能逃避想你"
+      },
+      {
+        "jp": "思い出しては 一人泣いてたの",
+        "romaji": "o mo i da shi te wa hi to ri na i te ta no",
+        "zh": "每个回忆都独自哭起来"
+      },
+      {
+        "jp": "あなたのこと 私は今でも思い続けているよ",
+        "romaji": "a na ta no ko to wa ta shi wa i ma de mo o mo i tsu dzu ke te i ru yo",
+        "zh": "我到了现在仍是思念着你啊"
+      },
+      {
+        "jp": "いくら时流れて行こうと I'm by your side baby いつでも",
+        "romaji": "i ku ra to ki na ga re te yu ko u to im by your side baby i tsu de mo",
+        "zh": "纵使多少时光流逝我何时都会在你身旁"
+      },
+      {
+        "jp": "So. どんなに离れていようと",
+        "romaji": "so. do n na ni ha na re te i yo u to",
+        "zh": "所以即使相距多远"
+      },
+      {
+        "jp": "心の中ではいつでも一绪にいるけど 寂しいんだよ",
+        "romaji": "ko ko ro no na ka de wa i tsu de mo i ssho ni i ru ke do sa bi shi i n da yo",
+        "zh": "虽然心里何时都在一起但仍会寂寞啊"
+      },
+      {
+        "jp": "So baby please ただ hurry back home",
+        "romaji": "so baby please ta da hurry back home",
+        "zh": "那么亲爱的只是请你快点回来"
+      },
+      {
+        "jp": "Baby boy あたしはここにいるよ どこもいかずに待ってるよ",
+        "romaji": "baby boy a ta shi wa ko ko ni i ru yo do ko mo i ka zu ni ma tte ru yo",
+        "zh": "亲爱的，我在这里啊哪里都不去在等你啊"
+      },
+      {
+        "jp": "You konw dat I love you だからこそ 心配しなくていいんだよ",
+        "romaji": "you konw dat i love you da ka ra ko so shi n pa i shi na ku te i i n da yo",
+        "zh": "你知道我爱你因此别再担心啊"
+      },
+      {
+        "jp": "どんなに远くにいても変わらないよ この心",
+        "romaji": "do n na ni to o ku ni i te mo ka wa ra na i yo ko no ko ko ro",
+        "zh": "即使相距再远也不会变的这颗心"
+      },
+      {
+        "jp": "言いたい事わかるでしょ？",
+        "romaji": "i i ta i ko to wa ka ru de sho ?",
+        "zh": "应该知道我想说什么吧"
+      },
+      {
+        "jp": "あなたのこと待ってるよ",
+        "romaji": "a na ta no ko to ma tte ru yo",
+        "zh": "在等着你回来"
+      },
+      {
+        "jp": "不器用な俺 远くにいる君",
+        "romaji": "bu ki yo u na o re to o ku ni i ru ki mi",
+        "zh": "迟钝的我 跟遥远的你"
+      },
+      {
+        "jp": "伝えたい気持ちそのまま言えずに 君はいっちまった",
+        "romaji": "tsu ta e ta i ki mo chi so no ma ma i e zu ni ki mi wa i cchi ma tta",
+        "zh": "不能直接告诉你心声时 你走了"
+      },
+      {
+        "jp": "今じゃ残された君はアルバムの中",
+        "romaji": "i ma ja no ko sa re ta ki mi wa a ru ba mu no na ka",
+        "zh": "只有遗留在相簿里"
+      },
+      {
+        "jp": "アルバムの中 纳めた思い出の",
+        "romaji": "a ru ba mu no na ka o sa me ta o mo i de no",
+        "zh": "收纳在相簿里的回忆"
+      },
+      {
+        "jp": "日々より 何げない一时が 今じゃ恋しいの",
+        "romaji": "hi bi yo ri na ni ge na i hi to to ki ga i ma ja ko i shi i no",
+        "zh": "相比每天 反而偶尔一下 更能人留恋"
+      },
+      {
+        "jp": "And now あなたからの电话待ち続けていた",
+        "romaji": "and now a na ta ka ra no de n wa ma chi tsu dzu ke te i ta",
+        "zh": "到了现在 仍然在等你的电话"
+      },
+      {
+        "jp": "携帯にぎりしめながら眠りについた",
+        "romaji": "ke i ta i ni gi ri shi me na ga ra ne mu ri ni tsu i ta",
+        "zh": "就连睡觉也紧握着电话"
+      },
+      {
+        "jp": "どこも行かないよ ここにいるけれど",
+        "romaji": "do ko mo i ka na i yo ko ko ni i ru ke re do",
+        "zh": "我哪里都没有去 仍在这里啊"
+      },
+      {
+        "jp": "见つめ合いたいあなたのその瞳",
+        "romaji": "mi tsu me a i ta i a na ta no so no hi to mi",
+        "zh": "好想再亲眼凝望你的双眼"
+      },
+      {
+        "jp": "ねえわかるでしょ？あたし待ってるよ",
+        "romaji": "ne e wa ka ru de sho ? a ta shi ma tte ru yo",
+        "zh": "明了吧？ 在等着你啊"
+      },
+      {
+        "jp": "Baby boy あたしはここにいるよ どこもいかずに待ってるよ",
+        "romaji": "baby boy a ta shi wa ko ko ni i ru yo do ko mo i ka zu ni ma tte ru yo",
+        "zh": "亲爱的，我在这里啊 哪里都不去在等你啊"
+      },
+      {
+        "jp": "You konw dat I love you だからこそ 心配しなくていいんだよ",
+        "romaji": "you konw dat i love you da ka ra ko so shi n pa i shi na ku te i i n da yo",
+        "zh": "你知道我爱你 因此别再担心啊"
+      },
+      {
+        "jp": "どんなに远くにいても変わらないよ この心",
+        "romaji": "do n na ni to o ku ni i te mo ka wa ra na i yo ko no ko ko ro",
+        "zh": "即使相距再远也不会变的这颗心"
+      },
+      {
+        "jp": "言いたい事わかるでしょ？",
+        "romaji": "i i ta i ko to wa ka ru de sho ?",
+        "zh": "应该知道我想说什么吧"
+      },
+      {
+        "jp": "あなたのこと待ってるよ",
+        "romaji": "a na ta no ko to ma tte ru yo",
+        "zh": "在等着你回来"
+      },
+      {
+        "jp": "俺はどこも行かないよ ここにいるけれど 探し続けるあなたの颜",
+        "romaji": "o re wa do ko mo i k na i yo ko ko ni i ru ke re do sa ga shi tsu dzu ke ru a na ta no ka o",
+        "zh": "我虽然在这里哪里都没去 但仍在找寻你的脸庞"
+      },
+      {
+        "jp": "Your 笑颜 今でも触れそうだって思いながら手を伸ばせば 君は",
+        "romaji": "your e ga o i ma de mo sa wa re so u da tte o mo i na ga ra te wo no ba se ba ki mi wa",
+        "zh": "我仍在边想像能够轻抚你的笑脸边伸出了手"
+      },
+      {
+        "jp": "あなたのこと 私は今でも思い続けているよ",
+        "romaji": "a na ta no ko to wa ta shi wa i ma de mo o mo i tsu dzu ke te i ru yo",
+        "zh": "我到了现在仍是思念着你啊"
+      },
+      {
+        "jp": "いくら时流れて行こうと I'm by your side baby いつでも",
+        "romaji": "i ku ra to ki na ga re te yu ko u to im by your side baby i tsu de mo",
+        "zh": "纵使多少时光流逝 我何时都会在你身旁"
+      },
+      {
+        "jp": "So. どんなに离れていようと",
+        "romaji": "so. do n na ni ha na re te i yo u to",
+        "zh": "所以 即使相距多远"
+      },
+      {
+        "jp": "心の中ではいつでも一绪にいるけど 寂しいんだよ",
+        "romaji": "ko ko ro no na ka de wa i tsu de mo i ssho ni i ru ke do sa bi shi i n da yo",
+        "zh": "虽然心里何时都在一起 但仍会寂寞啊"
+      },
+      {
+        "jp": "So baby please ただ hurry back home",
+        "romaji": "so baby please ta da hurry back home",
+        "zh": "那么亲爱的 只是请你快点回来"
+      },
+      {
+        "jp": "あなたのこと 私は今でも思い続けているよ",
+        "romaji": "a na ta no ko to wa ta shi wa i ma de mo o mo i tsu dzu ke te i ru yo",
+        "zh": "我到了现在仍是思念着你啊"
+      },
+      {
+        "jp": "いくら时流れて行こうと I'm by your side baby いつでも",
+        "romaji": "i ku ra to ki na ga re te yu ko u to im by your side baby i tsu de mo",
+        "zh": "纵使多少时光流逝 我何时都会在你身旁"
+      },
+      {
+        "jp": "So. どんなに离れていようと",
+        "romaji": "so. do n na ni ha na re te i yo u to",
+        "zh": "所以 即使相距多远"
+      },
+      {
+        "jp": "心の中ではいつでも一绪にいるけど 寂しいんだよ",
+        "romaji": "ko ko ro no na ka de wa i tsu de mo i ssho ni i ru ke do sa bi shi i n da yo",
+        "zh": "虽然心里何时都在一起 但仍会寂寞啊"
+      },
+      {
+        "jp": "So baby please ただ hurry back home",
+        "romaji": "so baby please ta da hurry back home",
+        "zh": "那么亲爱的 只是请你快点回来."
+      }
+    ]
+  },
+  {
+    "id": "绊",
+    "title": "绊",
+    "titleJp": "絆",
+    "artist": "miu-clips",
+    "lyrics": [
+      {
+        "jp": "繋(つな)がってるんだよ　一人（ひとり）じゃないんだよ",
+        "romaji": "tu na ga te run da yo、hi to ri jya na in da yo"
+      },
+      {
+        "jp": "振（ふ）り返（かえ）れば　みんなほら",
+        "romaji": "fu ri ka e re ba、min na ho ra"
+      },
+      {
+        "jp": "味方（みかた）でいるから",
+        "romaji": "mi ka ta de i ru ka ra"
+      },
+      {
+        "jp": "悔（くや）しくてさんざんで",
+        "romaji": "ku ya si ku te san zan de"
+      },
+      {
+        "jp": "投（な）げ出（だ）したい时（とき）も",
+        "romaji": "na ge da si ta i to ki mo"
+      },
+      {
+        "jp": "そばにいるよ",
+        "romaji": "so ba ni i ru yo"
+      },
+      {
+        "jp": "あなたらしく",
+        "romaji": "a na ta ra si ku"
+      },
+      {
+        "jp": "笑（わら）っていて欲（ほ）しいから",
+        "romaji": "wa ra a te i te ho si i ka ra"
+      },
+      {
+        "jp": "不透明（ふとうめい）な世（よ）の中（なか）で　不安（ふあん）で",
+        "romaji": "futo-me i na yo no na ka de、fu an de"
+      },
+      {
+        "jp": "私（わたし）に大（おお）きな事（こと）は出来（でき）ないよ",
+        "romaji": "wa ta si ni o o ki na ko to wa de ki na i yo"
+      },
+      {
+        "jp": "だけど",
+        "romaji": "da ke do"
+      },
+      {
+        "jp": "侧（そば）にいる",
+        "romaji": "so ba ni i ru"
+      },
+      {
+        "jp": "手（て）を握（にぎ）る",
+        "romaji": "te wo ni gi ru"
+      },
+      {
+        "jp": "悲（かな）しいとき　苦（くる）しいとき",
+        "romaji": "ka na si i to ki、ku ru si i to ki"
+      },
+      {
+        "jp": "素直（すなお）になれない　背中（せなか）を见（み）てるから",
+        "romaji": "su na o ni na re na i、se na ka wo mi te ru ka ra"
+      },
+      {
+        "jp": "そっと　伝（つた）えてくれてもいい",
+        "romaji": "so to、tu ta e te ku re te mo i i"
+      },
+      {
+        "jp": "毎日（まいにち）に",
+        "romaji": "ma i ni ti ni"
+      },
+      {
+        "jp": "花（はな）を添（そ）える",
+        "romaji": "ha na wo so e ru"
+      },
+      {
+        "jp": "そんな存在（そんざい）でいさせて",
+        "romaji": "so nn na so nn za i de i sa se te"
+      },
+      {
+        "jp": "大（おお）げさじゃなくて",
+        "romaji": "o o ga sa jya na ku te"
+      },
+      {
+        "jp": "あなたの隣（となり）にいさせて",
+        "romaji": "a na ta no to na ri ni i sa se te"
+      },
+      {
+        "jp": "繋(つな)がってるんだよ",
+        "romaji": "tu na ga te run da yo"
+      },
+      {
+        "jp": "一人（ひとり）じゃないんだよ",
+        "romaji": "hi to ri jya na in da yo"
+      },
+      {
+        "jp": "振（ふ）り返（かえ）れば　みんなほら",
+        "romaji": "fu ri ka e re ba、min na ho ra"
+      },
+      {
+        "jp": "味方（みかた）でいるから",
+        "romaji": "mi ka ta de i ru ka ra"
+      },
+      {
+        "jp": "悔（くや）しくてさんざんで",
+        "romaji": "ku ya si ku te san zan de"
+      },
+      {
+        "jp": "投（な）げ出（だ）したい时（とき）も",
+        "romaji": "na ge da si ta i to ki mo"
+      },
+      {
+        "jp": "そばにいるよ",
+        "romaji": "so ba ni i ru yo"
+      },
+      {
+        "jp": "あなたらしく　笑（わら）っていて欲（ほ）しいから",
+        "romaji": "a na ta ra si ku、wa ra a te i te ho si i ka ra"
+      },
+      {
+        "jp": "人（ひと）は谁（だれ）でも　孤独（こどく）抱（かか）えて",
+        "romaji": "hi to wa da re de mo、ko do ku ka ka e te"
+      },
+      {
+        "jp": "过（あやま）ちを恐（おそ）れて　进（すす）んでくけど",
+        "romaji": "a ya ma ti wo o so re te、su sun de ku ke do"
+      },
+      {
+        "jp": "信（しん）じれるもの　それがあるから",
+        "romaji": "sin ji re ru mo no、so re ga a ru ka ra"
+      },
+      {
+        "jp": "また明日（あした）探（さが）したくなる",
+        "romaji": "ma ta a si ta sa ga si ta ku na ru"
+      },
+      {
+        "jp": "微笑（ほほえ）みから 爱（いと）しさから",
+        "romaji": "ho ho e mi ka ra 、i to si sa ka ra"
+      },
+      {
+        "jp": "あふれるあなたを抱きしめ　つらいときは",
+        "romaji": "a fu re ru a na ta wo da ki si me、tu ra i to ki wa"
+      },
+      {
+        "jp": "そっとお返（かえ）しをするよ",
+        "romaji": "so to o ka e si wo su ru yo"
+      },
+      {
+        "jp": "透明（とうめい）な时间（じかん）だけが",
+        "romaji": "to-me i na ji kan da ke ga"
+      },
+      {
+        "jp": "信（しん）じられる世界（せかい）じゃなく 见（み）えないから",
+        "romaji": "sin ji ra re ru se ka i jya na ku mi e na i ka ra"
+      },
+      {
+        "jp": "きっと鲜（あざ）やかな未来（みらい）がある",
+        "romaji": "ki to a za ya ka na mi ra i ga a ru"
+      },
+      {
+        "jp": "繋(つな)がってるんだよ　一人（ひとり）じゃないんだよ",
+        "romaji": "tu na ga te run da yo、hi to ri jya na in da yo"
+      },
+      {
+        "jp": "振（ふ）り返（かえ）れば　みんなほら",
+        "romaji": "fu ri ka e re ba、min na ho ra"
+      },
+      {
+        "jp": "味方（みかた）でいるから",
+        "romaji": "mi ka ta de i ru ka ra"
+      },
+      {
+        "jp": "悔（くや）しくてさんざんで",
+        "romaji": "ku ya si ku te san zan de"
+      },
+      {
+        "jp": "投（な）げ出（だ）したい时（とき）も",
+        "romaji": "na ge da si ta i to ki mo"
+      },
+      {
+        "jp": "そばにいるよ",
+        "romaji": "so ba ni i ru yo"
+      },
+      {
+        "jp": "あなたらしく　笑（わら）っていて欲（ほ）しいから",
+        "romaji": "a na ta ra si ku、wa ra a te i te ho si i ka ra"
+      },
+      {
+        "jp": "自分（じぶん）のペース（ぺーす）で进（すす）めればいいね",
+        "romaji": "ji bun no pe-su de su su me re ba i i ne"
+      },
+      {
+        "jp": "自分（じぶん）を伪（いつわ）らなくていいんだよ",
+        "romaji": "ji bun wo i tu wa ra ku te i in da yo"
+      },
+      {
+        "jp": "フリ（ふり）まですると",
+        "romaji": "fu ri ma de su ru to"
+      },
+      {
+        "jp": "まわりや自分（じぶん）さえ见（み）えなくなってしまうから",
+        "romaji": "ma wa ri ya ji bun sa e mi e na ku na te si ma u ka ra"
+      },
+      {
+        "jp": "辿（たど）り着（つ）いた先（さき）　见（み）つけられたもの",
+        "romaji": "ta do ri tu i ta sa ki、mi tu ke ra re ta mo no"
+      },
+      {
+        "jp": "譲（ゆず）れないものはあるんですか",
+        "romaji": "yu zu re na i mo no wa a run de su ga"
+      },
+      {
+        "jp": "振（ふ）り返（かえ）ればすぐ",
+        "romaji": "fu ri ka e re ba su gu"
+      },
+      {
+        "jp": "そこにある帰（かえ）る场所（ばしょ）",
+        "romaji": "so ko ni a ru ka e ru ba syo"
+      },
+      {
+        "jp": "不透明（ふとうめい）な世（よ）の中（なか）で　不安（ふあん）で",
+        "romaji": "fu to-me i na yo no na ka de、fu an de"
+      },
+      {
+        "jp": "私（わたし）に大（おお）きな事（こと）は出来（でき）ないよ",
+        "romaji": "wa ta si ni o o ki na ko to wa de ki na i yo"
+      },
+      {
+        "jp": "だけど",
+        "romaji": "da ke do"
+      },
+      {
+        "jp": "侧（そば）にいる　手（て）を握（にぎ）る",
+        "romaji": "so ba ni i ru、te wo ni gi ru"
+      }
+    ]
+  },
+  {
+    "id": "转动命运之轮",
+    "title": "转动命运之轮",
+    "titleJp": "運命のルーレット廻して",
+    "artist": "ZARD",
+    "lyrics": [
+      {
+        "jp": "运命のルーレット廻して",
+        "romaji": "u n me i no ru u re tto ma wa shi te",
+        "zh": "命运之轮不停地旋转"
+      },
+      {
+        "jp": "ずっと 君を见ていた",
+        "romaji": "zu tto ki mi wo mi te i ta",
+        "zh": "永远注视着你"
+      },
+      {
+        "jp": "何故なの こんなに 幸せなのに",
+        "romaji": "na ze na no kon na ni shi a wa se na no ni",
+        "zh": "为什么在长大的幸福中"
+      },
+      {
+        "jp": "水平线を见ると 哀しくなる",
+        "romaji": "sui hei sen wo mi ru to ka na shi ku na ru",
+        "zh": "看见地平线仍会心生悲喜"
+      },
+      {
+        "jp": "あの顷の自分を远くで 见ている そんな感じ",
+        "romaji": "a no ko ro no ji bu n wo to o ku de mi te i ru son na ka n ji",
+        "zh": "就像远远地看着从前的自己"
+      },
+      {
+        "jp": "运命のルーレット廻して",
+        "romaji": "u n me i no ru u re tto ma wa shi te",
+        "zh": "命运之轮不停地旋转"
+      },
+      {
+        "jp": "アレコレ深く考えるのは Mystery",
+        "romaji": "a re ko re fu ka ku kan ga e ru no ha (mystery)",
+        "zh": "能够深入思考的只有秘密"
+      },
+      {
+        "jp": "ほら 运命の人はそこにいる",
+        "romaji": "ho ra u n me i no hi to ha so ko ni i ru",
+        "zh": "命中注定的那一个人"
+      },
+      {
+        "jp": "ずっと 君を见ていた",
+        "romaji": "zu tto ki mi wo mi te i ta",
+        "zh": "永远注视着你"
+      },
+      {
+        "jp": "星空を见上げて 笑颜(ウインク)ひとつで",
+        "romaji": "ho shi zo ra wo mi a ge te win ku hi to tsu de",
+        "zh": "仰望星空 流露笑脸"
+      },
+      {
+        "jp": "この高い所からでも 飞べそうじゃん",
+        "romaji": "ko no ta ka i to ko ro ka ra de mo to be sou jan",
+        "zh": "真想从高处飞奔而去"
+      },
+      {
+        "jp": "スピード上げ 望眼镜を 覗いたら",
+        "romaji": "su pi i do a ge bo u e n kyu u wo no zo i ta ra",
+        "zh": "加快速度 用望远镜远望"
+      },
+      {
+        "jp": "未来が见えるよ",
+        "romaji": "mi ra i ga mi e ru yo",
+        "zh": "看见未来在这里"
+      },
+      {
+        "jp": "运命のルーレット廻して",
+        "romaji": "un mei no ru u re tto ma wa shi te",
+        "zh": "命运之轮不停地旋转"
+      },
+      {
+        "jp": "何処に行けば 想い出に会える?",
+        "romaji": "do ko ni i ke ba o mo i de ni a e ru",
+        "zh": "在哪里能找到梦想?"
+      },
+      {
+        "jp": "青い地球の ちっぽけな二人は",
+        "romaji": "a o i chi kyu u no chi ppo ke na fu ta ri ha",
+        "zh": "蓝色地球上的我们两人"
+      },
+      {
+        "jp": "今も 进化し続ける",
+        "romaji": "i ma mo shi n ka shi tsu zu ke ru",
+        "zh": "现在不断地进化"
+      },
+      {
+        "jp": "运命のルーレット廻して",
+        "romaji": "un mei no ru u re tto ma wa shi te",
+        "zh": "命运之轮不停地旋转"
+      },
+      {
+        "jp": "旅立つ时の翼は bravely",
+        "romaji": "ta bi ta tsu to ki no tsu ba sa wha (bravely)",
+        "zh": "张开勇气的翅膀"
+      },
+      {
+        "jp": "ほら どんな时も 幸运は待ってる",
+        "romaji": "ho ra don na to ki mo kou n wha ma tte ru",
+        "zh": "无论何时 幸运在等你"
+      },
+      {
+        "jp": "ずっと 君を见ていた",
+        "romaji": "zu tto ki mi wo mi te i ta",
+        "zh": "永远注视着你"
+      },
+      {
+        "jp": "ずっと 君を见ていた",
+        "romaji": "zu tto ki mi wo mi te i ta",
+        "zh": "永远注视着你"
+      }
+    ]
+  },
+  {
+    "id": "雨声残响",
+    "title": "雨声残响",
+    "titleJp": "雨き声残響",
+    "artist": "Orangestar feat. IA",
+    "lyrics": [
+      {
+        "jp": "自分より下手くそな人",
+        "romaji": "ji bun yo ri he ta ku so na hi to"
+      },
+      {
+        "jp": "探して浸るの優越感",
+        "romaji": "sa ga shi te hi ta ru no yuu e tsu ka n"
+      },
+      {
+        "jp": "でもその度ちょっと自分を嫌って",
+        "romaji": "de mo so no ta bi cho tto ji bun wo ki ra tte"
+      },
+      {
+        "jp": "次元遡って現実逃避",
+        "romaji": "ji ge n sa ka no bo tte gen ji tsu tou hi"
+      },
+      {
+        "jp": "でも良いんじゃない？",
+        "romaji": "de mo ii n ja nai?"
+      },
+      {
+        "jp": "別に良いんじゃない？",
+        "romaji": "be tsu ni ii n ja nai?"
+      },
+      {
+        "jp": "無理に強がらなくても良いんじゃない？",
+        "romaji": "mu ri ni tsu yo ga ra na ku te mo ii n ja nai?"
+      },
+      {
+        "jp": "下を見て強くなれるのも",
+        "romaji": "shi ta wo mi te tsu yo ku na re ru no mo"
+      },
+      {
+        "jp": "また人だからさ。",
+        "romaji": "ma ta hi to da ka ra sa."
+      },
+      {
+        "jp": "五月蠅い　もううざい",
+        "romaji": "u ru sai mo u u zai"
+      },
+      {
+        "jp": "くらいに　Cryを　掻き消す様な",
+        "romaji": "ku ra i ni cry wo ka ki ke su you na"
+      },
+      {
+        "jp": "世界なら　抗ってたいのに",
+        "romaji": "se ka i na ra a ra ga tte ta i no ni"
+      },
+      {
+        "jp": "降りだした空の　泣き声は透明で",
+        "romaji": "fu ri da shi ta so ra no na ki go e wa tou me i de"
+      },
+      {
+        "jp": "『わかんない、",
+        "romaji": "\"wa ka n na i,"
+      },
+      {
+        "jp": "もうわかんないよ！』",
+        "romaji": "mou wa ka n na i yo!\""
+      },
+      {
+        "jp": "を何遍も。",
+        "romaji": "wo nan ben mo."
+      },
+      {
+        "jp": "僕達は存在証明に",
+        "romaji": "bo ku ta chi wa so n za i sho u me i ni"
+      },
+      {
+        "jp": "毎日一生懸命で",
+        "romaji": "ma i ni chi i sshou ke n me i de"
+      },
+      {
+        "jp": "こんな素晴らしい世界で",
+        "romaji": "ko n na su ba ra shi i se ka i de"
+      },
+      {
+        "jp": "まだ生きる意味を探してる",
+        "romaji": "ma da i ki ru i mi wo sa ga shi te ru"
+      },
+      {
+        "jp": "そりゃそうだろだって人間は",
+        "romaji": "so rya so u da ro da tte ni ge n wa"
+      },
+      {
+        "jp": "希望無しでは生きられないからさ",
+        "romaji": "ki bo u na shi de wa i ki re na i ka ra sa"
+      },
+      {
+        "jp": "みんな",
+        "romaji": "mi n na"
+      },
+      {
+        "jp": "心のどっかで　来世を信じてる",
+        "romaji": "ko ko ro no do kka de ra i se wo shi n ji te ru"
+      },
+      {
+        "jp": "昨日の僕守るために",
+        "romaji": "ki no u no bo ku ma mo ru ta me ni"
+      },
+      {
+        "jp": "笑うくらいなら",
+        "romaji": "wa ra u ku ra i na ra"
+      },
+      {
+        "jp": "泣いたっていいだろ？",
+        "romaji": "na i ta tte i i da ro"
+      },
+      {
+        "jp": "ねぇ",
+        "romaji": "nee"
+      },
+      {
+        "jp": "止まないの雨が",
+        "romaji": "ya ma na i no a me ga"
+      },
+      {
+        "jp": "夏空を鮮明に描いたって",
+        "romaji": "na tsu so ra wo sen me i ni e ga i ta tte"
+      },
+      {
+        "jp": "僕達は不完全で",
+        "romaji": "bo ku ta chi wa fu kan ze n de"
+      },
+      {
+        "jp": "未完成な",
+        "romaji": "mi ka n se i na"
+      }
+    ]
+  },
+  {
+    "id": "青鸟",
+    "title": "青鸟",
+    "titleJp": "ブルーバード",
+    "artist": "いきものがかり",
+    "lyrics": [
+      {
+        "jp": "飞翔(はばた)いたら　戻らないと言って",
+        "romaji": "ha ba ta i ta ra mo do ra na i to i tte"
+      },
+      {
+        "jp": "目指したのは　苍い　苍い　あの空",
+        "romaji": "me za shi ta no wa a o i a o i a no so ra"
+      },
+      {
+        "jp": "“悲しみ”はまだ覚えられず",
+        "romaji": "“ka na shi mi” wa ma da o bo e ra re zu"
+      },
+      {
+        "jp": "“切なさ”は今つかみはじめた",
+        "romaji": "“se tsu na sa” wa i ma tsu ka mi ha ji me ta"
+      },
+      {
+        "jp": "あなたへと抱く　この感情も",
+        "romaji": "a na ta e to i da ku ko no ka n jo u mo"
+      },
+      {
+        "jp": "今“言叶”に変わっていく",
+        "romaji": "i ma “ko to ba” ni ka wa tte i ku"
+      },
+      {
+        "jp": "未知なる世界の　游迷(ゆめ)から目覚めて",
+        "romaji": "mi chi na ru se ka i no yu me ka ra me za me te"
+      },
+      {
+        "jp": "この羽根を広げ　飞び立つ",
+        "romaji": "ko no ha ne wo hi ro ge to bi ta tsu"
+      },
+      {
+        "jp": "飞翔(はばた)いたら　戻らないと言って",
+        "romaji": "ha ba ta i ta ra mo do ra na i to i tte"
+      },
+      {
+        "jp": "目指したのは　白い　白い　あの云",
+        "romaji": "me za shi ta no wa shi ro i shi ro i a no ku mo"
+      },
+      {
+        "jp": "突き抜けたら　みつかると知って",
+        "romaji": "tsu ki nu ke ta ra mi tsu ka ru to shi tte"
+      },
+      {
+        "jp": "振り切るほど　苍い　苍い　あの空",
+        "romaji": "fu ri ki ru ho do a o i a o i a no so ra"
+      },
+      {
+        "jp": "苍い　苍い　あの空",
+        "romaji": "a o i a o i a no so ra"
+      },
+      {
+        "jp": "苍い　苍い　あの空",
+        "romaji": "a o i a o i a no so ra"
+      },
+      {
+        "jp": "爱想尽きたような音で",
+        "romaji": "a i so u tsu ki ta yo u na o to de"
+      },
+      {
+        "jp": "锖びれた古い窓は壊れた",
+        "romaji": "sa bi re ta fu ru i ma do wa ko wa re ta"
+      },
+      {
+        "jp": "见饱きたカゴは　ほら舍てていく",
+        "romaji": "mi a ki ta ka go wa ho ra su te te i ku"
+      },
+      {
+        "jp": "振り返ることはもうない",
+        "romaji": "fu ri ka e ru ko to wa mo u na i"
+      },
+      {
+        "jp": "高鸣る鼓动に　呼吸を共鸣(あず)けて",
+        "romaji": "ta ka na ru ko do u ni ko kyu u wo a zu ke te"
+      },
+      {
+        "jp": "この窓を蹴って　飞び立つ",
+        "romaji": "ko no ma do wo ke tte to bi ta tsu"
+      },
+      {
+        "jp": "駆け出したら　手にできると言って",
+        "romaji": "ka ke da shi ta ra te ni de ki ru to i tte"
+      },
+      {
+        "jp": "いざなうのは　远い　远い　あの声",
+        "romaji": "i za na u no wa to o i to o i a no ko e"
+      },
+      {
+        "jp": "眩しすぎた　あなたの手も握って",
+        "romaji": "ma bu shi su gi ta a na ta no te mo ni gi tte"
+      },
+      {
+        "jp": "求めるほど　苍い　苍い　あの空",
+        "romaji": "mo to me ru ho do a o i a o i a no so ra"
+      },
+      {
+        "jp": "坠ちていくと　わかっていた",
+        "romaji": "o chi te i ku to wa ka tte i ta"
+      },
+      {
+        "jp": "それでも　光を追い続けていくよ",
+        "romaji": "so re de mo hi ka ri wo o i tsu zu ke te i ku yo"
+      },
+      {
+        "jp": "飞翔(はばた)いたら　戻らないと言って",
+        "romaji": "ha ba ta i ta ra mo do ra na i to i tte"
+      },
+      {
+        "jp": "探したのは　白い　白い　あの云",
+        "romaji": "sa ga shi ta no wa shi ro i shi ro i a no ku mo"
+      },
+      {
+        "jp": "突き抜けたら　みつかると知って",
+        "romaji": "tsu ki nu ke ta ra mi tsu ka ru to shi tte"
+      },
+      {
+        "jp": "振り切るほど　苍い　苍い　あの空",
+        "romaji": "fu ri ki ru ho do a o i a o i a no so ra"
+      },
+      {
+        "jp": "苍い　苍い　あの空",
+        "romaji": "a o i a o i a no so ra"
+      },
+      {
+        "jp": "苍い　苍い　あの空",
+        "romaji": "a o i a o i a no so ra"
+      }
+    ]
+  }
+]
