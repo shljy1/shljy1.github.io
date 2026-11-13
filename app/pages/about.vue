@@ -111,6 +111,8 @@ const showHint = ref(true)
 const isCoarsePointer = ref(false) // 触屏设备：禁用轨道控制，保留滑动翻章
 const showMusic = ref(false) // 日语歌单漫游场景
 const musicIndex = chapters.findIndex((c) => c.id === "music") // 音乐章节索引
+const showAnime = ref(false) // 动漫模型查看场景
+const animeIndex = chapters.findIndex((c) => c.id === "anime") // 动漫章节索引
 let cleanupScene: (() => void) | null = null // 场景资源清理函数
 
 onBeforeUnmount(() => cleanupScene?.())
@@ -677,6 +679,21 @@ onMounted(async () => {
     <!-- 日语歌单：场景漫游 + 自定义着色器 -->
     <MusicScene v-if="showMusic" @close="showMusic = false" />
 
+    <!-- 动漫章节：模型查看入口 -->
+    <transition name="fade">
+      <button
+        v-if="activeIndex === animeIndex && !showAnime"
+        type="button"
+        class="anime-entry"
+        @click="showAnime = true"
+      >
+        🏴‍☠️ 动漫模型 · 点击查看
+      </button>
+    </transition>
+
+    <!-- 动漫模型：glTF 查看器 -->
+    <AnimeScene v-if="showAnime" @close="showAnime = false" />
+
     <!-- 底部滚动提示 -->
     <transition name="fade">
       <div
@@ -864,6 +881,33 @@ onMounted(async () => {
     color: #6ee7b7;
     border-color: rgb(52 211 153 / 80%);
     box-shadow: 0 0 28px rgb(52 211 153 / 35%);
+    transform: translateX(-50%) translateY(-2px);
+  }
+}
+
+/* 动漫章节：模型查看入口按钮（与音乐入口同款，章节色为青） */
+.anime-entry {
+  position: fixed;
+  bottom: 5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 20;
+  padding: 10px 22px;
+  border: 1px solid rgb(34 211 238 / 40%);
+  border-radius: 999px;
+  background: rgb(0 0 0 / 55%);
+  box-shadow: 0 0 20px rgb(34 211 238 / 15%);
+  backdrop-filter: blur(12px);
+  color: rgb(34 211 238 / 90%);
+  font-size: 14px;
+  letter-spacing: 0.15em;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s, box-shadow 0.2s, transform 0.2s;
+
+  &:hover {
+    color: #67e8f9;
+    border-color: rgb(34 211 238 / 80%);
+    box-shadow: 0 0 28px rgb(34 211 238 / 35%);
     transform: translateX(-50%) translateY(-2px);
   }
 }

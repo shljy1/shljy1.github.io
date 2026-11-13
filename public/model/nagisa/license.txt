@@ -1,0 +1,11 @@
+Model Information:
+* title:	Clannad - Furukawa Nagisa
+* source:	https://sketchfab.com/3d-models/clannad-furukawa-nagisa-428437e8f1c74fb994269729ec1a1bc6
+* author:	Kuroneko Labs (https://sketchfab.com/kuronekolabs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Clannad - Furukawa Nagisa" (https://sketchfab.com/3d-models/clannad-furukawa-nagisa-428437e8f1c74fb994269729ec1a1bc6) by Kuroneko Labs (https://sketchfab.com/kuronekolabs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
